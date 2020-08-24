@@ -1,10 +1,10 @@
 +++
-title = "Einführung"
+title = "Joscha"
 date = "2019-05-28"
 draft = false
 pinned = false
 tags = ["Anleitung", "Lernblog"]
-image = "/img/default-image.png"
+image = "2.jpg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
