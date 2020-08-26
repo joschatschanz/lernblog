@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/tree.jpeg"
 logo = "/media/tree.jpeg"
-image = "/media/1.jpg"
+image = "/media/tree.png"
 color = ""
 +++
