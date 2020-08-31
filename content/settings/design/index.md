@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/lokal.jpeg"
 logo = "/media/lokal.jpeg"
-image = "/media/scotland-1761292_1280.jpg"
+image = "/media/mountains-1412683_1280.png"
 color = ""
 +++
