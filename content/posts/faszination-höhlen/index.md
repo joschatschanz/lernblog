@@ -8,4 +8,4 @@ description = "Höhlen sind eine Faszinierende und andere Welt.\nGemeinsam Tauch
 +++
 **Fastzinatzion Höhlen**
 
-Höhlen sind Fastzinierende und auch unheimliche Löcher
+Höhlen sind Fastzinierende und auch unheimliche Löcher aber auf jeden Fall ist es eine andere Welt in die man eintauchen kann.
