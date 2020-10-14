@@ -6,12 +6,15 @@ pinned = false
 description = "Ich war bis jetzt in zwei Grösseren Höhlen aber in beiden begleitete ich zwei Hobby Höhlenforscher."
 +++
 Ich überlegte mir ein par Fragen auf die ich gerne eine Antwort häte ich endsied mich für die Folgenden:
- Interview mit: Geri und Simone
+
+Interview mit: Geri und Simone
 
 Wie seid ihr auf dieses Hobby gekommen:
 1. Geri: An einem Freitag hat mich ein Freund angerufen und gefragt, ob ich Lust hätte, am Samstag mit in die Beatushöhle zu kommen. Ich habe einfach mal ja gesagt und bin mitgegangen. Da ich extrem begeistert war, bin ich danach gleich Mitglied im Höhlenclub geworden und seither aktiv in Höhlen unterwegs.
 1. Simone: Als ich Geri kennen gelernt habe, erzählte er immer von seinen Höhlen und hat mich dann auch auf eine Tour mitgenommen. Danach war auch ich begeistert von der unterirdischen Welt.
+
 Was war bis jetzt das schönste Erlebnis in einer Höhle:
+
 2. Geri: Als wir nach vielen engen Stellen in einer Höhle eigentlich schon aufgeben wollten, dann per Zufall ein Schlupfloch gefunden haben, das zu einem 30m-Schacht geführt hat, der uns direkt in eine riesigen Gang mit Tropfsteinen geführt hat. In diesem Gang konnten wir über 1 Kilometer Neuland erforschen.
 2: Simone: Der Besuch einer Höhle auf Mallorca. Nach einem abenteuerlichen Anmarsch erreicht man den kleinen unscheinbaren Eingang, seilt sich ein paar Meter ab und gelangt in eine wunderschöne, riesige Halle.
 Welches war bis jetzt die gefährlichste Situation:
