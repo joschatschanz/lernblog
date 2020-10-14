@@ -23,3 +23,5 @@ Was ist eure Begeisterung an Höhlen:
 Warum sollte man ihn Höhlen gehen:
 5. Geri: Entweder, um als Mensch erleben zu können, an einem Ort dieser Erde der erste Mensch zu sein -> Abenteuer, Expedition, Pionier. Oder, um in unserer heutigen Welt mit permanenter Erreichbarkeit einmal eine Auszeit zu geniessen.
 5: Simone: Das Gleiche wie Geri
+
+Durch die antworten wurde wider mahl klahr warum man auf so ein spezielles Hobby kommen kann.
