@@ -15,7 +15,7 @@ Da ich schon im voraus Bilder gesehen hab und mich ein wenig versucht habe im In
 Der Eingang liegt gut versteckt in einem kleinen Wäldchen.
 Unsere Führer, wenn man das so sagen kann, waren zu diesem Zeitpungt damit beschäftigt, zuerst mal Seile zu installieren. Dann ging es los. Um hinein zu gelangen muss man sich zuerst 10 m abseilen.
 Weiter geht es dann durch grosse Gänge bis wir in einen Raum gelangen in dem zwei grosse Kalkgebilde stehen. Sie sehen fast aus wie eine Orgel.
-Deshalb auch der Name Catedral
+Deshalb auch der Name Catedral.
 Das war der erste grössere Raum in den man gekommen war. Es war viel grösser als ich mir das vorgestellt habe.
 Durch einen kleinen Gang, der man fast nicht erkennen kann, kommt man in die Palmenhalle. Der Name hat dieser Raum wahrscheinlich durch die Palmen ähnlichen Kalkgebilde, die aus dem Boden ragen.
 Durch Gänge und dünne Schächte dann die wahrscheinlich kleinste Stelle der Höhle: Das Schlüsselloch oder das Katzentürchen.
