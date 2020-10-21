@@ -4,8 +4,11 @@ date = "2020-10-14"
 draft = true
 pinned = false
 description = "Ich war bis jetzt in zwei Grösseren Höhlen aber in beiden begleitete ich zwei Hobby Höhlenforscher."
+footnotes = "https://incave.ch"
 +++
-Für meinen Film habe ich mier überlegt was ich machen könnte um ihn einwenig Intresanter zu gestalten. Ich bin auf die Ide gekommen Simon und Geri das sind hobby Höhlenforscher mit denen ich bis Jezt auch Zwei mahl mitgegangen bin einfach ein Pahr Fragen zu Ihrem Hobi zu stellen Ich überlegte mir ein par Fragen auf die ich gerne eine Antwort häte in diesem Blog wil ich einfach die spanendsten Fragen und Antworten zusammenfassen
+Für meinen Film habe ich mier überlegt was ich machen könnte um ihn einwenig Intresanter zu gestalten. Ich bin auf die Idee gekommen Simon und Geri das sind hobby Höhlenforscher mit denen ich bis Jezt auch Zwei mahl mitgegangen bin einfach ein pahr Fragen zu Ihrem Hobby zu stellen Ich überlegte mir ein par Fragen auf die ich gerne eine Antwort häte in diesem Blog wil ich einfach die spanendsten Fragen und Antworten zusammenfassen.
+
+![](5db96cdad0b98.jpg)
 
 # Interview mit: Geri und Simone
 
@@ -16,7 +19,6 @@ Geri: An einem Freitag hat mich ein Freund angerufen und gefragt, ob ich Lust h�
 **Was war bis jetzt das schönste Erlebnis in einer Höhle:**
 
 Simone: Der Besuch einer Höhle auf Mallorca. Nach einem abenteuerlichen Anmarsch erreicht man den kleinen unscheinbaren Eingang, seilt sich ein paar Meter ab und gelangt in eine wunderschöne, riesige Halle.
-
 
 **Welches war bis jetzt die gefährlichste Situation:**
 
@@ -29,5 +31,3 @@ Simone: Für mich Höhlen ganz klar ein Ort, an dem ich Energie tanken kann.
 **Warum sollte man ihn Höhlen gehen:**
 
 Geri: Entweder, um als Mensch erleben zu können, an einem Ort dieser Erde der erste Mensch zu sein -> Abenteuer, Expedition, Pionier. Oder, um in unserer heutigen Welt mit permanenter Erreichbarkeit einmal eine Auszeit zu geniessen.
-
-Durch die antworten wurde wider mahl klahr warum man auf so ein spezielles Hobby kommen kann.
