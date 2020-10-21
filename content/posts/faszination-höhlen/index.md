@@ -2,7 +2,7 @@
 title = "Faszination Höhlen"
 date = "2020-10-14"
 draft = false
-pinned = false
+pinned = true
 tags = ["Höhlen", "Verborgen"]
 image = "ja.jpg"
 description = "Höhlen sind faszinierende und auch gefährliche Orte. Zusammen werden wir in eine dieser Höhlen eintauchen."
