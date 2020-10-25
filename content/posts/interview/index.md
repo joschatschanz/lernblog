@@ -1,7 +1,7 @@
 +++
 title = "Interview mit Simon und Geri"
 date = "2020-10-14"
-draft = true
+draft = false
 pinned = false
 description = "Ich war bis jetzt in zwei grösseren Höhlen. In beiden begleitete ich zwei Hobby Höhlenforscher."
 footnotes = "https://incave.ch"
