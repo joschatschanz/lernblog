@@ -4,33 +4,25 @@ date = "2020-11-01"
 draft = true
 pinned = false
 image = "5g-5.png"
-description = "ich habe einfach mal über 5G recherchiert und bin auf ganz verschidenen Meinungen gestossen."
+description = "Ich habe einfach mal über 5G recherchiert und bin auf ganz verschiedene Meinungen gestossen."
 +++
 # 5G
 
-Ich habe mich mit 5G beschäftigt und habe einfach mal recherchiert.
-
-Und habe versucht die verschiedenen Meinungen zu untersuchen.
-
 5G ist immer wieder in den Medien und es gibt immer wieder andere Meinungen. 
 
-Ich finde das Thema sehr schwierig da es in Diskussionen immer wieder zu Widersprüchen kommt.
+Ich finde das Thema sehr schwierig, da es in Diskussionen zu Widersprüchen kommt.
 
 Ich war auf verschiedenen Internetseiten unterwegs und bin überall auf eine andere Meinung gestossen. 
 
-Die Kritiker befürchten, dass 5G schädlich ist und behaupte, dass es bislang noch keine Untersuchungen desgleichen gibt.
+Die Kritiker befürchten, dass 5G schädlich ist und behaupten, dass es bislang noch keine Untersuchungen desgleichen gibt.
 
 Und Befürworter meinen, dass es Fakten und Untersuchungen gibt, die widerlegen, dass es schädlich ist. 
 
 In diesem Text will ich am Anfang einfach ein paar Fakten zusammentragen und dann pro und kontra Meinungen zusammenfassen.
 
- 
-
 ![](5g-5.png)
 
 ### Die Fakten
-
- 
 
 Mit 1G der ersten Generation Rundfunk war es bereits möglich ohne Kabel zu Telefonieren.
 
@@ -48,16 +40,18 @@ So soll es möglich sein, dass ein Busfahrer so zu sagen im Homeoffice arbeitet 
 
 Oder Spezialdoktoren könnten mit Spezialrobotern von ausserhalb Personen operieren.
 
-###  Pro Meinungen
+
+
+### Pro Meinungen
 
 Das neue 5G Netz eröffnet neue Grundvoraussetzungen für die Zukunft und die Weiterentwicklung.
 
-###  Kontra Meinungen
+
+
+### Kontra Meinungen
 
 Es ist nicht restlos geklärt, ob und wie schädlich die Strahlen des 5G Netz tatsächlich sind.
 
 Und die Frage bleibt: Ist es wirklich nötig?
-
- 
 
 Ich finde es schwierig, sich eine Meinung zu bilden, wenn die Faktenlage so widersprüchlich ist. Irgendwie ist es eine Frage des Vertr
