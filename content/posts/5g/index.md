@@ -1,7 +1,7 @@
 +++
 title = "5G"
 date = "2020-11-01"
-draft = true
+draft = false
 pinned = false
 image = "5g-5.png"
 description = "Ich habe einfach mal über 5G recherchiert und bin auf ganz verschiedene Meinungen gestossen."
