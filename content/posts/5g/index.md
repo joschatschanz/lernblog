@@ -50,4 +50,4 @@ Es ist nicht restlos geklärt, ob und wie schädlich die Strahlen des 5G Netz ta
 
 Und die Frage bleibt: Ist es wirklich nötig?
 
-Ich finde es schwierig, sich eine Meinung zu bilden, wenn die Faktenlage so widersprüchlich ist. Ich dencke das man diesen Schrit wagen solte aber troz dem die Kritiker ernst nehmen.
+Ich finde es schwierig, sich eine Meinung zu bilden, wenn die Faktenlage so widersprüchlich ist. Ich dencke das man diesen Schrit in die Zukunft wagen solte aber troz dem die Kritiker ernst nehmen.
