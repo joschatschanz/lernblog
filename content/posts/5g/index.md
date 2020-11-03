@@ -40,13 +40,9 @@ So soll es möglich sein, dass ein Busfahrer so zu sagen im Homeoffice arbeitet 
 
 Oder Spezialdoktoren könnten mit Spezialrobotern von ausserhalb Personen operieren.
 
-
-
 ### Pro Meinungen
 
 Das neue 5G Netz eröffnet neue Grundvoraussetzungen für die Zukunft und die Weiterentwicklung.
-
-
 
 ### Kontra Meinungen
 
@@ -54,4 +50,4 @@ Es ist nicht restlos geklärt, ob und wie schädlich die Strahlen des 5G Netz ta
 
 Und die Frage bleibt: Ist es wirklich nötig?
 
-Ich finde es schwierig, sich eine Meinung zu bilden, wenn die Faktenlage so widersprüchlich ist. Irgendwie ist es eine Frage des Vertr
+Ich finde es schwierig, sich eine Meinung zu bilden, wenn die Faktenlage so widersprüchlich ist. Ich dencke das man diesen Schrit wagen solte aber troz dem die Kritiker ernst nehmen.
