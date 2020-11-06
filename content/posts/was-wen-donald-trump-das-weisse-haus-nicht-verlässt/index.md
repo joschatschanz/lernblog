@@ -3,6 +3,7 @@ title = "Was wen Donald Trump das weisse Haus nicht verlässt"
 date = "2020-11-04"
 draft = true
 pinned = false
+image = "3-format2020.jpg"
 description = "Was wäre wen Donald Trump Das weise haus nicht verlassen würde?"
 footnotes = "Wikipedia: https://de.wikipedia.org/wiki/Donald_Trump\n\nMrWissen2Go:"
 +++
