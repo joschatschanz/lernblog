@@ -3,6 +3,7 @@ title = "5G"
 date = "2020-11-01"
 draft = false
 pinned = false
+tags = ["5G"]
 image = "5g-5.png"
 description = "Ich habe einfach mal über 5G recherchiert und bin auf ganz verschiedene Meinungen gestossen."
 +++
