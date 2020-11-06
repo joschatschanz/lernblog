@@ -4,6 +4,7 @@ date = "2020-11-04"
 draft = true
 pinned = false
 description = "Was wäre wen Donald Trump Das weise haus nicht verlassen würde?"
+footnotes = "Wikipedia: https://de.wikipedia.org/wiki/Donald_Trump\n\nMrWissen2Go:"
 +++
 Ich beschäftige mich eigentlich nie mit Politik doch bei diesem Tema wurde ich newgierig.
 
@@ -15,4 +16,4 @@ Donald Trump ist 74 Jahre alt und der aktuelle President der USA. Doch Jezt ist 
 
 Auf diese fragen will ich mit hilfe diesses Videos eingehen
 
-Unterschideliche Parteien sagen Ja es wäre möglich. Donald trump könnte einfach beaupten das Trump Binden vohrwerfen könnte das er die Wahlen Malipuliert hat. Den noch ist es logischer das Trump versucht die wahlen zu malipulieren den die Mehrheit der Amerikaner steht nicht oder nicht mehr hinter Donold Trump. Darum hat er mehr schaunsen wen moglichst wenig an den Wahlen beteiligten darum
+Unterschideliche Parteien sagen Ja es wäre möglich. Donald trump könnte einfach beaupten das Trump Binden vohrwerfen könnte das er die Wahlen Malipuliert hat. Den noch ist es logischer das Trump versucht die wahlen zu malipulieren den die Mehrheit der Amerikaner steht nicht oder nicht mehr hinter Donold Trump. Darum hat er mehr schaunsen wen moglichst wenig an den Wahlen beteiligten darum [](https://de.wikipedia.org/wiki/Donald_Trump)
