@@ -22,4 +22,6 @@ Durch Gänge und dünne Schächte dann die wahrscheinlich kleinste Stelle der H�
 Bei diesem kleinen Durchgang war es sehr schwierig nicht nas zu werden da sich am Boden eine kleine Pfüze befand. Doch ich gelang durch irgendwelche komischen Bewegungen gesund und trocken wieder auf der anderen Seite raus.
 Wen man das aber geschafft hat wird man mit einem hohen Höhlengang belohnt, in dem kleine Wasser Tümpel sind, die man erklettern muss. Am Ende dieses Höllensystems kommt man in den Tropfsteinraum, in dem sich unterschiedliche Tropfsteine befinden. Grosse, kleine, ganz unterschiedliche. Es gab Stalaktiten Stalakmiten und auch solche die ich noch nie zuvor gesehen habe. Natürlich mussten wir irgendeinmal auch wieder zurück. Das war dann hier der Fall. Also kehrten wir um. Dieser Weg waren wir um einiges schneller und sahen eine halbe Stunde später wieder nach fünfstunden Höhle und Taschenlampenlicht die Sonne.
 
+![](pavel-satrapa-kk5xrr0zu98-unsplash.jpg)
+
 Dieses Erlebnis werde ich wahrscheinlich nie mehr vergessen und es hat mich auch motiviert ein Film daraus zu gestalten und ich habe mir auch die Fragen gestellt, wie eine Höhle entsteht oder warum man so lange dieses Hobby verfolgt. Also habe ich mich darangemacht und habe recherchiert und habe sogar ein paar Fragen an Simon und Geri gestellt, unsere Höhlenführer.
