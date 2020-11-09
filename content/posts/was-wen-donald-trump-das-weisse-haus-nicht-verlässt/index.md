@@ -1,7 +1,7 @@
 +++
 title = "Was passiert, wenn Trump das weiße Haus nicht verlassen will?"
 date = "2020-11-04"
-draft = true
+draft = false
 pinned = false
 image = "3-format2020.jpg"
 description = "Donald Trump sagt selbst von sich, dass er ein schlechter Verlierer ist. \n\nWas wäre, wenn Donald Trump trotz seiner Niederlage das weisse Haus nicht verlassen würde?"
