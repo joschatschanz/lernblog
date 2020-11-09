@@ -1,5 +1,5 @@
 +++
-title = "Ein schlechter Verlierer"
+title = "Was passiert, wenn Trump das weiße Haus nicht verlassen will?"
 date = "2020-11-04"
 draft = true
 pinned = false
