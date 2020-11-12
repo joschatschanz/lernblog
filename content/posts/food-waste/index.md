@@ -9,7 +9,7 @@ description = "Food waste ist ein wichtiges Tema der Zukunft.\nüber das ich kur
 
 ### Was ist Food waste?
 
-Food waste sind esswaren die auf dem weg von Feld bis aufs Teller verloren oder weg  geworfen werden. Manchmal aus unverstentnid volen gründen gründen w
+Food waste sind esswaren die auf dem weg von Feld bis aufs Teller verloren oder weg  geworfen werden. Manchmal aus unverstentnid volen gründen gründen wie zum beispiel Ausehen oder Form von obst oder gemüsse.
 
 ### Wo endsteht Food waste?
 
