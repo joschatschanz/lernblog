@@ -1,7 +1,7 @@
 +++
 title = "Food waste "
 date = "2020-11-12"
-draft = true
+draft = false
 pinned = false
 image = "organic-root-crops-and-other-vegetables-768x512.jpg"
 description = "Food waste ist ein wichtiges Thema der Zukunft.\n"
