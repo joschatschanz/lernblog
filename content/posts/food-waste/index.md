@@ -3,6 +3,7 @@ title = "Food waste "
 date = "2020-11-12"
 draft = true
 pinned = false
+image = "organic-root-crops-and-other-vegetables-768x512.jpg"
 description = "Food waste ist ein wichtiges Thema der Zukunft.\n"
 +++
 ## Food waste
@@ -10,6 +11,8 @@ description = "Food waste ist ein wichtiges Thema der Zukunft.\n"
 ### Was ist Food waste?
 
 Food waste sind Esswaren die auf dem Weg von Feld bis aufs Teller verloren oder weggeworfen werden. Manchmal aus unverständlichen Gründen wie zum Beispiel Ausehen oder Form von Obst oder Gemüsse.
+
+![](organic-root-crops-and-other-vegetables-768x512.jpg)
 
 ### Wo endsteht Food waste?
 
