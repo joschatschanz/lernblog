@@ -1,7 +1,7 @@
 +++
 title = "Food waste "
 date = "2020-11-12"
-draft = false
+draft = true
 pinned = false
 image = "organic-root-crops-and-other-vegetables-768x512.jpg"
 description = "Food waste ist ein wichtiges Thema der Zukunft.\n"
@@ -16,7 +16,9 @@ Food waste sind Esswaren die auf dem Weg von Feld bis aufs Teller verloren oder 
 
 ### Wo endsteht Food waste?
 
-Food waste entsteht zu grossen Teillen in der Landwirtschaft und Verarbeitung. Aber auch  in Gastronomie, dem Detailhandel und in Haushalten werden zu grosse Portionen abgelaufene Produkte und Essensreste einfach entsorgt.
+Food wast entsteht eigentlich in fast allen Prozessen der Lebensmittel Produktion.In der Landwirtschaft entsteht der Food waste durch aussortierte unförmige Früchte. In der Verarbeitung durch ungenutzte Nebenprodukte. Im Grosshandel durch Lager Verluste. An dieser Stelle teilt sich der Strang, entweder werden die Produckte durch Detailhandel an Haushalte geliefert oder es geht direkt an die Gastronomie dort werden durch zu grosse Portionen und Buffetüberschüsse Food waste gemacht. In Detailhandel durch abgelaufene Produkte und in Haushalten durch Essens Reste. 
+
+ 
 
 ### Was kann man dagegen tun?
 
