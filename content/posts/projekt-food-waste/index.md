@@ -5,4 +5,4 @@ draft = true
 pinned = false
 description = "unser Ziel ein Offenen Kühlschrank im Kampf gegen Food waste"
 +++
-bla bla bla
+Food waste ist ein wichtiges Tema und es giebt auch schon verschidene Lösungen zum beispiel die Offnen
