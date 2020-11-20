@@ -3,7 +3,8 @@ title = "Projekt Food waste "
 date = "2020-11-20"
 draft = true
 pinned = false
-description = "unser Ziel ein Offenen Kühlschrank im Kampf gegen Food waste"
+tags = ["Madamefrigo", "Foodwaste"]
+description = "Der offene Kühlschrank vor dem Effinger"
 +++
 Food waste ist ein wichtiges Tema und es giebt auch schon verschidene Lösungen zum beispiel die Offnen kühlschreinke von Madam frigo. so einer befindet sich auch vor dem Effinger.
 
