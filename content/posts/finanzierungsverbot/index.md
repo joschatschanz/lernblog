@@ -21,3 +21,7 @@ Contra
 Das Finanzierungsverbot kann eine schlechte wirkung auf Renten und die Schweizer Wirdschaft haben darum lehnen Bundesraht und auch Pahrlament das Finanzierungsverbot ab.
 
 ![](claudio-schwarz-purzlbaum-s777k6znppy-unsplash.jpg)
+
+Ich weis ja nicht was ich fon dem ganzen halten soll. Das Ja für den Friden und das Nein für die Bereicherung. Ist es nicht so?
+
+Keine Anung.
