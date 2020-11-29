@@ -4,7 +4,7 @@ date = "2020-11-25"
 draft = true
 pinned = false
 image = "claudio-schwarz-purzlbaum-tnunygu2g0a-unsplash.jpg"
-description = "Am 29.11.20 wird abgestimmt "
+description = "Am 29.11.20 wird abgestimmt"
 +++
 Am 29.11.20 wird abgestimmt und das Finanzierungsverbot entweder angenommen oder abgelehnt.
 
