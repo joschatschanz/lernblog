@@ -6,6 +6,7 @@ pinned = false
 tags = ["Abstimmung", "Blog"]
 image = "claudio-schwarz-purzlbaum-tnunygu2g0a-unsplash.jpg"
 description = "Am 29.11.20 wird abgestimmt"
+footnotes = ""
 +++
 Am 29.11.20 wird abgestimmt und das Finanzierungsverbot entweder angenommen oder abgelehnt.
 
