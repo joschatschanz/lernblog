@@ -1,7 +1,7 @@
 +++
 title = "Finanzierungsverbot"
 date = "2020-11-25"
-draft = true
+draft = false
 pinned = false
 tags = ["Abstimmung", "Blog"]
 image = "claudio-schwarz-purzlbaum-tnunygu2g0a-unsplash.jpg"
