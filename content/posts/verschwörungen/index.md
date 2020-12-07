@@ -1,18 +1,18 @@
 +++
 title = "Verschwörungen"
 date = "2020-12-02"
-draft = true
+draft = false
 pinned = false
 image = "thought-catalog-gbq3esfsdg8-unsplash.jpg"
-description = "Verschwörungstheorien sind immer wider im umlauf zu den untrschidlichsten Themen und Bereiche"
+description = "Verschwörungstheorien sind immer wieder im Umlauf zu den untrschiedlichsten Themen und Bereiche"
 +++
 ## Verschwörungen
 
-Verschwörungen sind überal und es giebt mehr Menschen auf der Welt als man glaubt die an die kreatifsten und die verrücktesten Teorien Glauben. Eine Teorie dreht sich meistens um Macht und basiert auf Mistrauen oder angst. Hat fileicht der alte Freimaurerorden die Welt im griff oder die Menschen die die Welt regieren sind in Wirklichkeit Außerirdische Echsenmenschen die die welt übernemen wollen. Es giebt natürlich auch beweisse die aber meistens leider nicht so einfach wider legt werden könnten oder mit einer so schlechten Auflösung aufgenomen sind das man fast nichts   erkennen kann. Zum beispiel gibt es im Internet verschidene videos in denen man einige verdechtige Augenzeinkern oder eine hervorshcnelende zunge zu erkennen kann.
+Verschwörungen sind überall und es gibt mehr Menschen auf der Welt als man glaubt die an die kreativsten und die verrücktesten Theorien glauben. Eine Theorie dreht sich meistens um Macht und basiert auf Mistrauen oder Angst. 
 
-#### Mondlandungs Fake
+Hat vielleicht der alte Freimaurerorden die Welt im Griff? 
 
-Am 21. Juli 1969 betraten die Insasen der Mission Apollo 11 Neil Armstrong und Buzz Aldrin als ersten Menschen den Mond. Aber das ist alles nur eine schrekliche Inszenierung und wurde alles nur in einem Studio in Hollowod aufgenommen um bei dem Wetlauf ins all die Nasse vorne zu behalten. Das glauben 20% der Amerikanischen befölkerung. Den es giebt auch beweisse den die szenerie soll angeblich sogar falsch beleuchtet gewesen sein. Und in dem Video siedt man die Amerikanische Flake die Im Wind Flatert. Wind ? aber wind gibt es auf dem Mond doch garnicht. Als ich das kurze[ Video](https://youtu.be/wd6ekSYpt9w) dazu gesehen Habe bin ich auf den Entschluss  gekommen das die Flage warscheindlich einfach geflatert hat weil sie mit Wucht in den Boden geramt wurde. Ich Finde das das die wohl Logiste Teorie meiner aumzählung Ist aber auch die stinkt zum Himmel oder halt zum Mond
+Oder sind die Regenten der Welt in Wirklichkeit Außerirdische Echsenmenschen, die die Welt übernemen wollen? Es gibt natürlich auch "Beweise" für solche Thearien,  die meistens leider nicht so einfach wiederlegt werden können. Zum Beispiel Aufnahmen,  wo man offenbar verdächtige Augenzwinkern oder eine hervorschnellende Zunge  erkennen kann.
 
 ![](nasa-jlv2k_fx0fc-unsplash.jpg)
 
@@ -20,14 +20,24 @@ Am 21. Juli 1969 betraten die Insasen der Mission Apollo 11 Neil Armstrong und B
 
 #### Die Erde ist eine Scheibe
 
-Früher dachte man das die Erder eine Scheibe ist aber mit der zeit gab es mehrere Teorien und dann wure aus der vermeintlichen Flachen Erde eine runde Kugel. Als Juri gagarin als erster mensch in seiner Raumkapsel Wostok 1 in den Weltraum Flog gab es den vermeintlich unwiderlegbaren beweisse das die Erde eine Kugel ist aber nicht für verschörung teoretiker. Es giebt immer noch eine hand voll Leute die behaubten das die Erde eine kugel ist. Ich habe da natürlich auch nach angeblichen beweisse gesucht aber ich habe keine schotige aufnahmen oder irgendwelche abwegige fackten gefunden. Ich halte die Teorie sehr abwegig warum solte sich die Wissenschaft seit dem 15. Jarhunder teuschen.
-
-![](actionvance-t7el2ig3jmc-unsplash-6.jpg)
+Früher dachte man, dass die Erde eine Scheibe ist. Es gab mehrere Theorien und dann wurde aus der vermeintlich flachen Erde eine runde Kugel. Als Juri Gagarin als erster Mensch in seiner Raumkapsel Wostok 1 in den Weltraum flog, gab es den vermeintlich unwiderlegbaren Beweis, dass die Erde eine Kugel ist.  Aber nicht für Verschwörungtheoretiker. Es gibt immer noch eine Hand voll Leute, die behaupten, dass die Erde eine Scheibe ist. Ich habe da natürlich auch nach angeblichen "Beweisen" gesucht aber ich habe keine schrotige Aufnahmen oder irgendwelche abwegigen Fakten gefunden. Ich halte die Theorie für sehr abwegig. Warum sollte sich die Wissenschaft seit dem 15. Jahrhundert täuschen?
 
 #### Chemtrails
 
-Jeder hat schon einmahl diese Wolkenändlichen Lienien am Himmel gesehen das sind  in grosser höhe kondensierte Flugzeug Abgasse. Aber diese streifen sollte es angeblich garnicht geben. Da gibt es natürlich nur eine Erklärung die Regirung fült heimlich die Tanks mit gass und Sprüht es so in die Atmosfähre. Angeblich sollen diese Gifte die Gesundheit bewinflussen und sogar das Klima verändern können. Beweisse gibt es nich aber warum sollte ich dan daran glauben. Ich halte wie man warscheindlich schon rausgehört hat nichts von diesser Teorie.
+Jeder hat schon einmahl diese wolkenähnlichen Linien am Himmel gesehen. Das sind  in grosser Höhe kondensierte Flugzeugabgase. Aber diese Streifen sollte es angeblich gar nicht geben. Da gibt es natürlich nur eine Erklärung: Die Regierung füllt heimlich die Tanks mit Gas und sprüht es so in die Atmosphähre. Angeblich sollen diese Gifte die Gesundheit beeinflussen und sogar das Klima verändern.
+
+ Ich halte wie man wahrscheinlich rausgehört nichts von dieser Theorie.
+
+
+
+**Mondlandungsfake**
+
+Am 21. Juli 1969 betraten die Insasen der Mission Apollo 11 Neil Armstrong und Buzz Aldrin als erste Menschen den Mond. Aber das ist alles nur eine schreckliche Inszenierung und wurde alles nur in einem Studio in Hollywood aufgenommen, um bei dem Wetlauf ins All die Nase vorne zu behalten. Das glauben 20% der Amerikanischen Bevölkerung! Auch hier gibt es "Beweise": Die Szenerie soll angeblich sogar falsch beleuchtet gewesen sein. Und in dem Video sieht man die Amerikanische Flagge, wie sie im Wind flattert. Wind? Wind gibt es auf dem Mond doch gar nicht!  Als ich das kurze[ Video](https://youtu.be/wd6ekSYpt9w) dazu gesehen habe, bin ich zum Schluss  gekommen, dass die Flagge wahrscheinlich einfach geflattert hat, weil sie mit Wucht in den Boden gerammt wurde. 
+
+Ich finde die Mondlandungstheorie von meiner Aufzählung am logischten, aber auch sie stinkt zum Himmel oder halt zum Mond.
+
+![](actionvance-t7el2ig3jmc-unsplash-6.jpg)
 
 ![](bing-hui-yau-xgiwedov7x8-unsplash-5.jpg)
 
-Ich bin von sollchen Teorien eher Abgelent und halte eigentlich nichts davon. wir stossen aber immer wider darauf. Forallem in der Corona zeit sind immer wider Verschwörungsteorien in umlauf. Fiel
+Ich bin solchen Theorien eher abgeneigt und halte eigentlich nichts davon. Wir stossen aber immer wider darauf. Vor allem in der Coronazeit sind immer wieder Verschwörungstheorien in Umlauf. Manchmahl ist es schwierig das Echte von dem vermeintlich Echten zu unterscheiden.
