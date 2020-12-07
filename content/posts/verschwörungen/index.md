@@ -8,7 +8,7 @@ description = "Verschwörungstheorien sind immer wider im umlauf zu den untrschi
 +++
 ## Verschwörungen
 
-Verschwörungen sind überal und es giebt mehr Menschen auf der Welt als man glaubt die an die kreatifsten und die verrücktesten Teorien Glauben. Eine Teorie dreht sich meistens um Macht. Hat fileicht der alte Freimaurerorden die Welt im griff oder die Menschen die die Welt regieren sind in Wirklichkeit Außerirdische Echsenmenschen die die welt übernemen wollen. Es giebt natürlich auch beweisse die aber meistens alles heissen könnten oder mit einer so schlechten Auflösung aufgenomen sind das man fast nichts   erkennen kann. Zum beispiel gibt es im Internet verschidene videos in denen man einige verdechtige Augenzeinkern oder eine hervorshcnelende zunge zu erkennen kann.
+Verschwörungen sind überal und es giebt mehr Menschen auf der Welt als man glaubt die an die kreatifsten und die verrücktesten Teorien Glauben. Eine Teorie dreht sich meistens um Macht und basiert auf Mistrauen oder angst. Hat fileicht der alte Freimaurerorden die Welt im griff oder die Menschen die die Welt regieren sind in Wirklichkeit Außerirdische Echsenmenschen die die welt übernemen wollen. Es giebt natürlich auch beweisse die aber meistens leider nicht so einfach wider legt werden könnten oder mit einer so schlechten Auflösung aufgenomen sind das man fast nichts   erkennen kann. Zum beispiel gibt es im Internet verschidene videos in denen man einige verdechtige Augenzeinkern oder eine hervorshcnelende zunge zu erkennen kann.
 
 #### Mondlandungs Fake
 
