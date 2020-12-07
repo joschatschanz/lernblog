@@ -4,13 +4,15 @@ date = "2020-12-02"
 draft = true
 pinned = false
 image = "thought-catalog-gbq3esfsdg8-unsplash.jpg"
-description = "Verschwörungstheorien sind immer wider im umlauf"
+description = "Verschwörungstheorien sind immer wider im umlauf zu den untrschidlichsten Themen und Bereiche"
 +++
+## Verschwörungen
+
 Verschwörungen sind überal und es giebt mehr Menschen auf der Welt als man glaubt die an die kreatifsten und die verrücktesten Teorien Glauben. Eine Teorie dreht sich meistens um Macht. Hat fileicht der alte Freimaurerorden die Welt im griff oder die Menschen die die Welt regieren sind in Wirklichkeit Außerirdische Echsenmenschen die die welt übernemen wollen. Es giebt natürlich auch beweisse die aber meistens alles heissen könnten oder mit einer so schlechten Auflösung aufgenomen sind das man fast nichts   erkennen kann. Zum beispiel gibt es im Internet verschidene videos in denen man einige verdechtige Augenzeinkern oder eine hervorshcnelende zunge zu erkennen kann.
 
 #### Mondlandungs Fake
 
-Am 21. Juli 1969 betraten die Insasen der Mission Apollo 11 Neil Armstrong und Buzz Aldrin als ersten Menschen den Mond. Aber das ist alles nur eine schrekliche Inszenierung und wurde alles nur in einem Studio in Hollowod aufgenommen um bei dem Wetlauf ins all die Nasse vorne zu behalten. Das glauben 20% der Amerikanischen befölkerung. Den es giebt auch beweisse den die szenerie soll angeblich sogar falsch beleuchtet gewesen sein. Und in dem Video siedt man eine Flake die Im Wind Flatert. Wind ? aber wind gibt es auf dem Mond doch garnicht. Ich Finde das das die wohl Logiste Teorie Ist aber auch die stinkt zum Himmel oder halt zum Mond
+Am 21. Juli 1969 betraten die Insasen der Mission Apollo 11 Neil Armstrong und Buzz Aldrin als ersten Menschen den Mond. Aber das ist alles nur eine schrekliche Inszenierung und wurde alles nur in einem Studio in Hollowod aufgenommen um bei dem Wetlauf ins all die Nasse vorne zu behalten. Das glauben 20% der Amerikanischen befölkerung. Den es giebt auch beweisse den die szenerie soll angeblich sogar falsch beleuchtet gewesen sein. Und in dem Video siedt man die Amerikanische Flake die Im Wind Flatert. Wind ? aber wind gibt es auf dem Mond doch garnicht. Ich Finde das das die wohl Logiste Teorie meiner aumzählung Ist aber auch die stinkt zum Himmel oder halt zum Mond
 
 ![](nasa-jlv2k_fx0fc-unsplash.jpg)
 
