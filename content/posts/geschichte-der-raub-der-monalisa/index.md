@@ -3,6 +3,7 @@ title = "Geschichte: Der Raub der Monalisa"
 date = "2020-12-11"
 draft = true
 pinned = false
+image = "mona-lisa-p-1024727412.jpg"
 description = "Laut dem Eines Buch der Rekorde ist die Mona Lisa das Gemälde mit dem teuersten Versteigerungs wert wie so ein Gemälde Gestohlen worden konnte will ich in diesem Blog erläutert."
 +++
 Der Raub der Mona Lisa
