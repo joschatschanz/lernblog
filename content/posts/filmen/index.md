@@ -1,7 +1,7 @@
 +++
 title = "Filmen"
 date = "2020-12-16"
-draft = true
+draft = false
 pinned = false
 image = "final-cut.jpg"
 description = "So bin ich beim erstellen meines Filmes vorgegangen."
