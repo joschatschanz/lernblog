@@ -14,6 +14,6 @@ Der Yeti ist ein Zweibeiniges fabelwessen mit zoteligen weissen Haren. Er geht a
 
 Bigfoot das gruselwessen von Nordamerika
 
-Bigfoot ist wohl mit dem Jeti zu vergleichen den Laut Augenzeugen und Fargwürdiegen Bilder wirt der Bigfoot alls ungefähr gleich gross beschirben aber er soll kein weisses sondern ein Braunest Fell besizten. Auch bei den sichtungs orten unterscheideter sich vom Yeti. Den er soll angeblich in Nordamerika und auch schon in Kanada gesichtet worden sein aber
+Bigfoot ist wohl mit dem Jeti zu vergleichen den Laut Augenzeugen und Fargwürdiegen Bilder wirt der Bigfoot alls ungefähr gleich gross beschirben aber er soll kein weisses sondern ein Braunest Fell besizten. Auch bei den sichtungs orten unterscheideter sich vom Yeti. Den er soll angeblich in Nordamerika und auch schon in Kanada gesichtet worden sein. Er wurde aber am häufigsten in den Rocky Montens gesichtet. Die Beweisse: bis Heute gibt es keine Eindeutigen Beweisse Zu Bigfoot den alle Tohnaufnahmen und Videoaufnahmen wurden als Fake bewissen oder sind sehr Umsriten. Darum würde ich diese Legende wohl einfach  
 
 Nessi das Monster von Lochness
