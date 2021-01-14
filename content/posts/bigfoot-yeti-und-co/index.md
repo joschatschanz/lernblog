@@ -30,4 +30,4 @@ In Schottland gibt es einen See der Loch Ness heist in ihm Lebt ein Monster das 
 
 Wen ich eine rangliste dieser drei wessen aufstellen sollte dan wäre Bigfoot wohl auf dem Lezten Platz. Den das ganze kommt mir eher so vor wie ein Modernes Märchen. Aber Bein Nessi ist die möglichkeit wohl immer noch am höchsten. Den es werden immer wider Newe Tiere im Meer und in anderen Gewässern endeck. Bei mir stelt sich aber doch die Frage warum bei all diesen Wissenschaftlichen untersuchungen immer noch kein eindeutiger beweis gefunden wurde.
 
-Mein Fazit: Ich finde solche Geschichte spanend aber würde nicht
+Mein Fazit: Ich finde solche Geschichte spanend aber würde nicht anfangen das zu glauben die meisten dieser geschichten halte ich für mindestens Fragwürdig.
