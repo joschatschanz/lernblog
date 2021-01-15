@@ -14,13 +14,13 @@ Yeti der Schneemensch
 
 Der Yeti ist ein Zweibeiniges fabelwessen mit zoteligen weissen Haren. Er geht auf zwei beinen es gibt zahlreiche Bilder von seinen grossen Fußabdrücken im Schnee. Die Beweise: Die Wohl grösten und auch den Bekantesten Beweis sind wohl die spuren im Schnee die immer wider gessehen und Fotografirt werden 2019 wuren Fotos der Indischen Arme auf Twitter gepostet die die vermeimtlichen Fussabtrüke zeigen sollen. Der Deutschen Bergsteiger Reinhold Messner Stellte eine Teorie auf die aus sagt das der Schneemensch eigentlich ein Tibetischer Bär ist. Den in unterschidlichen Sprachen Bedeutet Yeti nichts anderes als Bär. Auch bei Harproben von angeblichen Fell des Zotteltires wurde diese Teorie bestärkt den die harre wurden alls Fell unterschidlcher Bären Nachgewisen.
 
-![](a.jpg)
+![](yeti.jpeg)
 
 Bigfoot das gruselwessen von Nordamerika
 
 Bigfoot ist wohl mit dem Jeti zu vergleichen den Laut Augenzeugen und Fargwürdiegen Bilder wirt der Bigfoot alls ungefähr gleich gross beschirben aber er soll kein weisses sondern ein Braunest Fell besizten. Auch bei den sichtungs orten unterscheideter sich vom Yeti. Den er soll angeblich in Nordamerika und auch schon in Kanada gesichtet worden sein. Er wurde aber am häufigsten in den Rocky Montens gesichtet. Die Beweisse: bis Heute gibt es keine Eindeutigen Beweisse Zu Bigfoot den alle Tohnaufnahmen und Videoaufnahmen wurden als Fake bewissen oder sind sehr Umsriten. Darum würde ich dieses wessen einfach als legende abtuhen. 
 
-![](c.jpg)
+![](bigfoot.jpg)
 
 Nessi das Monster von Lochness
 
