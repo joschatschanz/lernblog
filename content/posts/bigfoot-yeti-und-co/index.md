@@ -12,7 +12,7 @@ Lochness oder vom Bergmonster aus dem Hymajalia dem Yeti oder vom Berenartigen m
 
 Yeti der Schneemensch
 
-Der Yeti ist ein Zweibeiniges fabelwessen mit zoteligen weissen Haren. Er geht auf zwei beinen es gibt zahlreiche Bilder von seinen grossen Fußabdrücken im Schnee. Die Beweise: Die Wohl grösten und auch den Bekantesten Beweis sind wohl die spuren im Schnee die immer wider gessehen und Fotografirt werden 2019 wuren Fotos der Indischen Arme auf Twitter gepostet die die vermeimtlichen Fussabtrüke zeigen sollen. Der Deutschen Bergsteiger Reinhold Messner Stellte eine Teorie auf die aus sagt das der Schneemensch eigentlich ein Tibetischer Bär ist. Den in unterschidlichen Sprachen Bedeutet Yeti nichts anderes als Bär. Auch bei Harproben von angeblichen Fell des Zotteltires wurde diese Teorie bestärkt den die harre wurden alls Fell unterschidlcher Bären Nachgewisen.
+DerYeti ist ein Zweibeiniges fabelwessen mit zoteligen weissen Haren. Er geht auf zwei beinen es gibt zahlreiche Bilder von seinen grossen Fußabdrücken im Schnee. Die Beweise: Die Wohl grösten und auch den Bekantesten Beweis sind wohl die spuren im Schnee die immer wider gessehen und Fotografirt werden 2019 wuren Fotos der Indischen Arme auf Twitter gepostet die die vermeimtlichen Fussabtrüke zeigen sollen. Der Deutschen Bergsteiger Reinhold Messner Stellte eine Teorie auf die aus sagt das der Schneemensch eigentlich ein Tibetischer Bär ist. Den in unterschidlichen Sprachen Bedeutet Yeti nichts anderes als Bär. Auch bei Harproben von angeblichen Fell des Zotteltires wurde diese Teorie bestärkt den die harre wurden alls Fell unterschidlcher Bären Nachgewisen.
 
 ![](yeti.jpeg)
 
