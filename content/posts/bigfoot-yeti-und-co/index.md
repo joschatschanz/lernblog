@@ -1,7 +1,7 @@
 +++
 title = "Bigfoot Yeti und co."
 date = "2021-01-13"
-draft = true
+draft = false
 pinned = false
 tags = ["Schneemensch", "Yeti", "Nessi"]
 image = "arne-schog-hwdvb5obtcg-unsplash-2.jpg"
