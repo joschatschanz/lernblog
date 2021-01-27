@@ -1,11 +1,11 @@
 +++
 title = "Geschenke mit Geste "
 date = "2021-01-22"
-draft = true
+draft = false
 pinned = false
 image = "geschenk.jpg"
-description = "In diesem Blogeintrag will ich über "
+description = "Letzten Mittwoch habe ich ein Geschenk mit Geste erhalten."
 +++
-Lezten Mittwoch ging ich auf die Bank und habe das Gelt eingezahlt was ich zum Geburztag gekriegt habe. Die Frau neben an hatte offensichtlich Geburztag. Ich hatte Ja zwei Tage vorher Geburtztag alls sie das erfahren hat gab sie mir zehn Franken was ich eine sehr schöne Geste fand. Dann habe ich angefangen darüber nachzudenken. Ich habe das gefühl das kleine Geschenke die von Herzen kommen manchmahl einfach mehr Freude bereiten können. Also denke ich das ich es Jemandem gebe der es mehr braucht und schenke das Gelt einem Obdachlosen.
+Lezten Mittwoch ging ich auf die Bank und habe das Geld eingezahlt, das ich zum Geburtstag gekriegt habe. Die Frau am anderen Schalter hatte offensichtlich Geburtstag. Ich hatte zwei Tage vorher. Als sie das erfahren hat, gab sie mir zehn Franken, was ich eine sehr schöne Geste fand. Dann habe ich angefangen darüber nachzudenken. Ich habe das Gefühl, dass kleine Geschenke die von Herzen kommen manchmal mehr Freude bereiten können alle grosse die unpersönlich sind. Ich denke, dass ich es jemandem gebe der es mehr braucht und schenke das Geld einem Obdachlosen.
 
 ![](geschenk.jpg)
