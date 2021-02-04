@@ -4,7 +4,7 @@ date = "2021-02-04"
 draft = true
 pinned = false
 +++
-Ich habe in der lezten Zeit an einem Film zu Tema Höhle gearbeitet. In diesem Blog will ich über diese drei sachen reden:
+Ich habe in der lezten Zeit an einem Film zu Tema Höhle gearbeitet. In diesem Blog will ich über diese sachen reden:
 
 Was habe ich beim Projekt für mich gelernt?
 Was war meine grösste Herausforderung? 
@@ -12,8 +12,6 @@ Was waren die Überraschungsmomente?
 Bin ich mit der Form/Film zufrieden so wie er jetzt ist?\
 Was würde ich im Rückblick anders machen oder angehen? 
 Wie kann ich Andere Menschen an dem  Projekt/dem Film teilhaben lassen?  
-
-
 
 Was habe ich beim Projekt für mich gelernt?
 
