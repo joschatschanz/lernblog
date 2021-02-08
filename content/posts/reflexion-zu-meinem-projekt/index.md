@@ -3,6 +3,7 @@ title = "Reflexion zu meinem Projekt"
 date = "2021-02-04"
 draft = true
 pinned = false
+image = "tempimagesvoujd.jpg"
 +++
 Ich habe in der lezten Zeit an einem Film zu Tema Höhle gearbeitet. In diesem Blog will ich über diese Dinge reden:
 
@@ -12,6 +13,7 @@ Was waren die Überraschungsmomente?
 Bin ich mit dem Film zufrieden so wie er jetzt ist?\
 Was würde ich im Rückblick anders machen oder angehen? 
 
+![](tempimagesvoujd.jpg)
 
 Was habe ich beim Projekt für mich gelernt?
 
