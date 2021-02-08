@@ -4,6 +4,7 @@ date = "2021-02-04"
 draft = true
 pinned = false
 image = "tempimagesvoujd.jpg"
+description = "In diesem Blog schreibe ich darüber wie es mir mit der Erstellung meines Filmes gegangen ist."
 +++
 Ich habe in der lezten Zeit an einem Film zu Thema Höhle gearbeitet. In diesem Blog will ich über diese Dinge reden:
 
@@ -37,4 +38,4 @@ Als mein nächstes Projekt würde ich gerne etwas bestimmen wo ich mehrere Ziele
 
 Mein Endergebnis:
 
-Grotte de la malatière der Film <--- da ist der Film verlinkt.
+Grotte de la Malatière der Film <--- da ist der Film verlinkt.
