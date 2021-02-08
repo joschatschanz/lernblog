@@ -1,7 +1,7 @@
 +++
 title = "Reflexion zu meinem Projekt"
 date = "2021-02-04"
-draft = true
+draft = false
 pinned = false
 image = "tempimagesvoujd.jpg"
 description = "In diesem Blog schreibe ich darüber wie es mir mit der Erstellung meines Filmes gegangen ist."
@@ -36,6 +36,4 @@ Was würde ich im Rückblick anders machen oder angehen?
 
 Als mein nächstes Projekt würde ich gerne etwas bestimmen wo ich mehrere Ziele und Wege angehen kann und das Endprodukt ganz unterschiedlich sein kann. Ob das wieder ein Film ist oder etwas anderes, ist mir eigentlich soweit egal. Ich würde auch gerne ein wenig mehr mit den Leuten im Effinger ins Gespräch kommen und den Kontakt mehr nützen.
 
-Mein Endergebnis:
-
-Grotte de la Malatière der Film <--- da ist der Film verlinkt.
+Mein Endergebnis folgt demnächst.
