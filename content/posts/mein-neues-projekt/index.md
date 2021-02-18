@@ -3,6 +3,7 @@ title = "Mein neues Projekt"
 date = "2021-02-15"
 draft = true
 pinned = false
+image = "diego-ph-fiq0tet6llw-unsplash.jpg"
 description = ""
 +++
 In diesem kurzen Blog schreibe ich darüber was ich als newes Projekt wähle.
