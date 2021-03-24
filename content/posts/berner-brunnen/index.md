@@ -18,10 +18,10 @@ Der Kindlifresserbrunnen ist warscheindlich einer der Bekantesten Brunnen der St
 
 **Gerechtikeitsbrunnen**
 
-Der Gerechtikeiztsbrunne zeigt die gerechtikeits Göttin Justitia sie hält in der Rechterhand das Richtshert und in der Linkenhand die Wage. Was beide Zeichen für gerächtikeit sind.
+Der Gerechtikeiztsbrunne zeigt die gerechtikeits Göttin Justitia sie hält in der Rechterhand das Richtshert und in der Linkenhand die Wage. Was beide Zeichen für gerächtikeit sind. Der Brunnen steht wie es der Name schon sagt in einer Strasse mit dem Namen Gereschtikeitsgasse.
 
 **Vennerbrunner**
 
-Der Vennerbrunen habe ich gewält weil der mit seiner Posiztion vor dem Berner Rathaus einzig artig ist.
+Der Vennerbrunen habe ich gewält weil der mit seiner Posiztion vor dem Berner Rathaus einzig artig ist. Er zeigt ein aufrechtstehender Mann der einen Banner hält. Dieser Brunnen wurde 1913 wegen dem bau der [](https://de.wikipedia.org/wiki/Nydeggbr%C3%BCcke) Nydeggbrüche versezt.
 
 **Simsonbrunnen**
