@@ -5,14 +5,14 @@ draft = true
 pinned = false
 description = "Ich war vorletzte Woche zwei Tage bei einem Velomech das habe ich mitgenommen. "
 +++
-Ich habe mir überlegt was ich einmahl schnuppern gehen möchte und bin auf den Beruf Velomech gekommen. Da mein Onkel neuerdings ein Velolanden eröfnet hat und er dazu auch einen Mech angestelt hat bat sich das natürlich an. Also habe ich mich mit im in verbindung gesezt un einen Termin abgemacht. Am Montag fuhr ich also auf Grosshöchstetten. Es giebt immer wider berürungspünkte mit  
+Ich habe mir überlegt was ich einmahl schnuppern gehen möchte und bin auf den Beruf Velomech gekommen. Da mein Onkel neuerdings ein Velolanden eröffnet hat und er dazu auch einen Mech angestelt hat bat sich das natürlich an. Also habe ich mich mit im in verbindung gesezt un einen Termin abgemacht. Am Montag fuhr ich also auf Grosshöchstetten. 
 
 Pro
 
 \-Es ist etwas was man im Altag auch brauchen kann.\
 -Man sied was man gemacht hat.\
 -Man hat auch kontakt mit Kunden\
--Man muss manchmahl auch Improvisieren
+-Man muss manchmal auch Improvisieren
 
 Contra 
 
