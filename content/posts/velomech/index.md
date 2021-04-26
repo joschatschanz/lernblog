@@ -3,7 +3,7 @@ title = "Velomech"
 date = "2021-04-07"
 draft = true
 pinned = false
-description = "Ich war vorletzte Woche zwei Tage bei einem Velomech das habe ich mitgenommen. "
+description = "Ich war vorletzte Woche zwei Tage bei einem Velomech ich schreibe darüber."
 +++
 Ich habe mir überlegt was ich einmahl schnuppern gehen möchte und bin auf den Beruf Velomech gekommen. Da mein Onkel neuerdings ein Velolanden eröffnet hat und er dazu auch einen Mech angestelt hat bat sich das natürlich an. Also habe ich mich mit im in verbindung gesezt un einen Termin abgemacht. Am Montag fuhr ich also auf Grosshöchstetten. 
 
