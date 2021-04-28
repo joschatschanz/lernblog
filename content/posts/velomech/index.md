@@ -5,7 +5,7 @@ draft = true
 pinned = false
 description = "Ich war vorletzte Woche zwei Tage bei einem Velomech und schreibe darüber."
 +++
-Ich habe mir überlegt was ich einmal schnuppern gehen möchte und bin auf den Beruf Velomech gekommen. Da mein Onkel ein Velolanden eröffnet hat und er dazu auch einen Mech angestellt hat, bat sich das natürlich an. Also habe ich mich mit ihm in Verbindung gesezt un einen Termin abgemacht. Am Montag fuhr ich also auf Grosshöchstetten.
+Ich habe mir überlegt was ich einmal schnuppern gehen möchte und bin auf den Beruf Velomech gekommen. Da mein Onkel ein Velolanden eröffnet hat und er dazu auch einen Mech angestellt hat, bat sich das natürlich an. Also habe ich mich mit ihm in Verbindung gesezt un einen Termin abgemacht. Meine Idee war es das ich auch einmahl einen kurzen Imagefilm drehen werde. Am Montag fuhr ich also auf Grosshöchstetten. Jezt will ich in diesem Blog aufschreiben was ic gut und was mir weniger gefählt.
 
 Pro
 
