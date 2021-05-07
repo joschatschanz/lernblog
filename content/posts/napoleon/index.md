@@ -1,7 +1,7 @@
 +++
 title = "Der Russlandfeldzug "
 date = "2021-05-07"
-draft = true
+draft = false
 pinned = false
 image = "2-grande-arme-.jpg"
 description = "In diesem Blog geht es um den Russlandfeldzug"
@@ -35,7 +35,7 @@ Da Napoleon damit gerechnet hat, viel schneller voran zu kommen zog unverhofft d
 
 Russland ging auf keine Verhandlung ein und daher war ein Friedensschluss ausgeschlossen. Am 18. September 1812 zog Napoleon seine Truppen zurück. Von den 600.000 Männer wurden 200.000 gefangengenommen und 275.000 mussten ihr Leben lassen. Den Winter hätten die verbleibenden Soldaten nicht überstanden, wenn sie nicht die Flucht gewählt hätten.
 
-![]()
+![](napoleon-rökzug-7.jpg)
 
 Der Weg auf Frankreich war nicht weniger kräftezehrend als der Hinweg. Die Russische Arme verfolgte sie und startete immer wieder Angriffe, welche die Truppe stark schwächte. Am Ende war von der Grand Armée nur noch eine Petit Armée übrig. Napoleon kam im Dezember in Frankreich an. Er konnte nur knapp einen Putschversuch verhindern. Das ist der Versuch, die Regierung mit Gewalt zu stürzen. In den darauffolgenden Befreiungskriegen wurde Napoleon gestürzt.
 
