@@ -6,8 +6,6 @@ pinned = false
 image = "dji_0376.jpg"
 description = "In den Ferien waren wir ein par Tage im Jura ich schreibe darüber was ich für Drohnenbilder gemacht habe."
 +++
-**Drohne Fliegen**\
-\
 Heute gehören Drohnen einfach dazu. Ich finde, dass man so einen anderen Blick auf eine Sache kriegen kann, wenn man sie aus der Luft betrachtet. Wir haben vielleicht seit einem Jahr auch eine Drohne, die immer wieder schöne Luftbilder macht. Ein Kollege von mir hat jetzt auch eine Drohne gekauft, seitdem packt mich dieses Thema.  Ich habe auch mehrere Videos gemacht, in denen zum grössten Teil Drohnenaufnahmen stecken. Zum Beispiel Industrieflug: In Stettlen, genauer gesagt in Deisswil, wird eine alte Kartonfabrik zu einer Wohnsiedlung umgebaut.Das grosse Areal eignet sich natürlich für ein paar coole Drohnenaufnahmen. Daraus habe ich ein kurzes Video geschnitten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/whEM9TzxaIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
