@@ -1,5 +1,5 @@
 +++
-title = "Mein Kurzprojekt Berner Gebäude"
+title = "Mein Projekt Berner Gebäude"
 date = "2021-03-25"
 draft = true
 pinned = false
