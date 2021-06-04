@@ -4,7 +4,7 @@ date = "2021-03-17"
 draft = true
 pinned = false
 +++
-Das Berner Münster ist Wohl eines der Bekantesten Gebäude in Bern und Etwas wie ein Warzeichen. Das Gebäude ist sogar die wichtigste und gröste Kirche der Welt. Aber wan wurde das Münster gebaut, wie sah es früher aus und für was wird es heute gebraucht.
+Das Berner Münster ist Wohl eines der Bekantesten Gebäude in Bern und Etwas wie ein Warzeichen. Das Gebäude ist sogar die wichtigste und gröste Kirche der Schweiz. Aber wan wurde das Münster gebaut, wie sah es früher aus und für was wird es heute gebraucht.
 
 Geschichte
 
