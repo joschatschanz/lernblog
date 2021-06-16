@@ -13,10 +13,24 @@ Ich habe mir drei Brunnen ausgewählt. Die Kriterien dafür waren, dass die Brun
 
 Da die Brunnen und auch die zwei anderen Gebäude ja so oder so schon oft Fotografiert worden sind, was ich im Nachhinein auch ein wenig bereue, habe ich es mir vorgenommen sie aus unterschiedlichen Richtungen und in ungewöhnlichen Winkel zu Fotografieren. 
 
+![Berechtigkeitsbrunnen](_dsc1120.jpg)
+
+![In diesem Bild bin Ich weg gegangen und habe gezoomt](_dsc1123.jpg)
+
+![Dann bin ich näher gegangen und habe nicht gezoomt, man sieht so viel mehr im Hintergrund.](_dsc1125.jpg)
+
+![Da habe ich den Vennerbrunnen durch das Geländer vom Rathaus Fotografiert.](_dsc1160.jpg)
+
 Zytglogge
 
 Die Zytglogge ist natürlich auch ein Ort der immer wider Fotografiert wird und darum habe ich ach dort versucht Bilder zu machen die man so noch nicht so oft gesehen hat was mir im Nachhinein gesehen nicht so gut gelungen ist. Es gibt in Bern immer wider metal Seile die gespant wurden. Wie man auf dem Bild sehen kann habe ich versucht damit ein cooles Bild zu machen. 
 
+![](_dsc1139.jpg)
 
+![](_dsc1207.jpg "Ich habe die Erfahrung gemacht das man den Himmel mit hoher Belichtung viel weniger gut sehen kann")
+
+![Und mit einer tiefen Belichtung erkennt man den Himmel mehr dafür ist das Gebäude im Vordergrund auch dunkler.](_dsc1208.jpg)
 
 Münster
+
+Um coole Bilder vom Münster zu machen hatte ich die Idee das ich vielleicht eine gute Sicht auf das Gebäude haben könnte wen ich auf die Kirchenfeldbrücke gehe, was ich jetzt auch gemacht habe. Um Bilder von näher zu machen bin ich nach fünf Minuten also näher ans Münster herangangen und habe in einer Seitenstrasse ein alter Mercedes gesehen, der weil der mir so gefallen hat mein Bildschirmhintergrund zier. Ich habe immer wider versucht mit dem Zoom und mit den so entstandenen Unterscheiden zu arbeiten wie man auch am Beispiel mit dem Auto sehen kann.
