@@ -34,3 +34,9 @@ Die Zytglogge ist natürlich auch ein Ort der immer wider Fotografiert wird und 
 Münster
 
 Um coole Bilder vom Münster zu machen hatte ich die Idee das ich vielleicht eine gute Sicht auf das Gebäude haben könnte wen ich auf die Kirchenfeldbrücke gehe, was ich jetzt auch gemacht habe. Um Bilder von näher zu machen bin ich nach fünf Minuten also näher ans Münster herangangen und habe in einer Seitenstrasse ein alter Mercedes gesehen, der weil der mir so gefallen hat mein Bildschirmhintergrund zier. Ich habe immer wider versucht mit dem Zoom und mit den so entstandenen Unterscheiden zu arbeiten wie man auch am Beispiel mit dem Auto sehen kann.
+
+![](_dsc1243.jpg)
+
+![Auch in diesem Bild bin ich zuerst näher dran und habe nicht gezoomt.](_dsc1302.jpg)
+
+![Und im zweiten Bild bin ich ein wenig weiter weg gegangen und habe gezoomt.](_dsc1301.jpg)
