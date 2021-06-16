@@ -3,6 +3,7 @@ title = "Mein Projekt Berner Gebäude"
 date = "2021-03-25"
 draft = true
 pinned = false
+image = "stadtplanbern1_4.jpg"
 description = "In diesem Blog schreibe ich darüber wie ich die Fotos für mein Projekt geschossen habe."
 +++
 In meinem Neuen Projekt habe ich drei Gebäude in Bern unter die Lupe genommen dabei stand die Geschichte der Gebäude im Vordergrund. Zu jedem dieser Projekte wird also ein Blogeintrag erscheinen. Um diese Blogs Spannender zu gestalten und zudem in einem Neuen Bereich etwas zu lernen hatte ich die Idee diese Gebäude zu Fotografieren Ich habe mir eine Kamera ausgeliehen und mich ein wenig mit dem Thema auseinandergesetzt auch habe ich mir Tips von erfahrenen Fotografen geholt. Mit Jonathan bin ich dann diese Gebäude Fotografieren Gegangen hier seht ihr wie die Fotos gekommen sind welche Erfahrungen ich gemacht habe und was ich gelernt habe.
