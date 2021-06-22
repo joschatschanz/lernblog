@@ -1,7 +1,7 @@
 +++
 title = "Mein Projekt Berner Gebäude"
 date = "2021-03-25"
-draft = true
+draft = false
 pinned = false
 image = "1.jpg"
 description = "In diesem Blog schreibe ich darüber wie ich die Fotos für mein Projekt geschossen habe."
