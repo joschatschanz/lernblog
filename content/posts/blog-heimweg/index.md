@@ -3,6 +3,7 @@ title = "Blog Heimweg"
 date = "2021-06-23"
 draft = true
 pinned = false
+image = "tim-mossholder-rzfqgkmt_ly-unsplash-1-.jpg"
 +++
 Seit einigen Jahren gebt es in Stettlen den heiwäg. Das Grund Prinzip lautet so: 80 km Luftlinie strecke 5 Tage 30.66 Fr. (Postleitzahl von Stettlen) pro Person.
 
