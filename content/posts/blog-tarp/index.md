@@ -3,6 +3,7 @@ title = "Blog Tarp"
 date = "2021-06-23"
 draft = true
 pinned = false
+image = "tarp.jpeg"
 +++
 Ich habe mir vor einigen Tagen ein Tarp bestellt. Das ist eigentlich eine Zeltblane die in meinem Falle 3x3 Meter gross. Ich habe sie in einem Tarnlook gekauft da mir das gefallen hat und man so natürlich auch weniger auffällt, dass ist natürlich auch einfach eine Spielerei und macht auch nicht wirklich sin aber nun gut. Der Vorteil gegenüber einem Zelt ist ganz klar das Packmass und die Flexibilität. Den durch die verschiedenen Schlaufen die sich rundherum und oben am Tarp befinden kann man sehr viele
 
