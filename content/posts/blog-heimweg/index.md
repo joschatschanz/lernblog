@@ -1,5 +1,5 @@
 +++
-title = "Blog Heimweg"
+title = "Blog Heiwäg"
 date = "2021-06-23"
 draft = false
 pinned = false
