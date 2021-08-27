@@ -1,7 +1,7 @@
 +++
 title = "Blog Heimweg"
 date = "2021-06-23"
-draft = true
+draft = false
 pinned = false
 image = "vitolda-klein-wos-auwllhm-unsplash.jpg"
 description = "Ich schreibe darüber wie ich in einer Woche von Sarnen nach Stettlen gewandert bin."
@@ -22,9 +22,9 @@ Am nächsten Morgen entschied sich Ganluca, der Verunfallte nach Hause zu gehen,
 
 Am Morgen weckte uns ein Donner und kurz darauf wurden wir mit einem Platzregen überrascht. Einige Dinge konnten wir unter den Taps sichern und wurden nicht nass. Wir konnten uns unter einem Vordach einer Autogarage in Sicherheit bringen, unsere Rucksäcke packen und dann unserer geplanten Route folgen. Unser Ziel war zu dem Zeitpunkt Langnau, was wir aber nicht ganz geschafft haben. Wir haben kurz davor bei einem Bauern gefragt und konnten im Garten schlafen. Da es die ganze Woche sehr kalt war, haben wir uns mit den Militärblachen und den Taps einen Windschutz gebaut. 
 
-![]()
-
 In Langnau haben wir uns ein Zmorgen gemacht und sind dann einfach weitergelaufen. Wir wollten am Abend in Worb übernachten, denn wir mussten am Freitag um zehn Uhr in Stettlen sein. In Biglen haben wir eingekauft und auf der Karte eine Brätlistelle gefunden, zu der wir dann auch gelaufen sind. Wir konnten dann bei dieser Brätlistelle übernachten. Es zog ein ordentliches Gewitter auf. Auch da kamen die Tarps zum Einsatz. Denn bei der Brätlistelle gab es zwei Tische, die wir mit den Taps überspannt haben. Wir haben die Nacht also trocken überstanden. 
+
+![](59026.jpg)
 
 Am nächsten Tag ging es also nach Stettlen. 
 
