@@ -32,7 +32,7 @@ description = "Mein Portfolio"
 
 [Blog zu den Berner Gebäuden](https://www.joschatschanz.ch/mein-kurzprojekt-berner-gebaude/)
 
-## [](https://www.joschatschanz.ch/mein-kurzprojekt-berner-gebaude/)Zeichnungen
+## [](https://www.joschatschanz.ch/mein-kurzprojekt-berner-gebaude/)Zeichnung
 
 Bild:
 
