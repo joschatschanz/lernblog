@@ -1,12 +1,13 @@
 +++
 title = "Das bin ich"
 draft = true
+image = "snapseed-1-.jpg"
 description = "Das bin Ich."
 +++
-Ich heisse Joscha und bin 14 Jahre alt. Und das bin Ich.
+Ich heisse Joscha und bin 14 Jahre alt. Und das bin ich:
 
 **Familie:**\
-*Ich habe einen Bruder der 12 Jahre alt ist er heißt Timo.*\
+*Ich habe einen Bruder der 12 Jahre alt ist, er heißt Timo.*\
 *Meine Eltern heissen Sibille und Stephan.*
 
 **Hobbys:**\
@@ -18,11 +19,10 @@ Ich heisse Joscha und bin 14 Jahre alt. Und das bin Ich.
 **Meine Besonderheiten:**\
 *gesprächig*\
 *vielseitig*\
-*Kreativ*\
-*Vielseitig*\
-*Humorvoll*\
-*Fröhlich*\
-*Neugierig*\
+*kreativ*\
+*humorvoll*\
+*fröhlich*\
+*neugierig*\
 \
 **Meine Stärken:**\
 *offen für Neues*\
