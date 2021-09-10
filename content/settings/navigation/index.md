@@ -11,5 +11,5 @@ url = "/ueber/"
 
 [[link]]
 title = "Portfolio"
-url = "https://www.joschatschanz.ch/admin/#/collections/pages/entries/portfolio/index"
+url = "https://www.joschatschanz.ch/portfolio/"
 +++
