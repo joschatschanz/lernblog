@@ -1,6 +1,6 @@
 +++
 title = "Portfolio"
-draft = false
+draft = true
 image = "robert-wiedemann-d9yog5zp-oq-unsplash.jpg"
 description = "Mein Portfolio"
 +++
@@ -33,8 +33,6 @@ description = "Mein Portfolio"
 ## [](https://www.joschatschanz.ch/mein-kurzprojekt-berner-gebaude/)Zeichnungen:
 
 Skizze:
-
-
 
 ![](img_3411.jpg)
 
