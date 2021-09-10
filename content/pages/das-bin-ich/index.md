@@ -1,12 +1,31 @@
 +++
-title = "das bin ich "
+title = "Das bin ich"
 draft = true
-description = "ich heisse joscha und bin 13 Jahre alt."
+description = "Das bin Ich."
 +++
-ich heisse joscha und bin 13 jahre alt.
+Ich heisse Joscha und bin 14 Jahre alt. Und das bin Ich.
 
-ich bin seit dem sommer im efinger und so mit auch im home scolling.
+**Familie:**\
+*Ich habe einen Bruder der 12 Jahre alt ist er heißt Timo.*\
+*Meine Eltern heissen Sibille und Stephan.*
 
-ich habe ein Jüngeren Bruder.
+**Hobbys:**\
+*Film, Fotos machen*\
+*Fahrrad fahren*\
+*Saxophon*\
+*Ich bin gerne im Wald*
 
-in meiner Freizeit fahre ich gehrne fahrad und bin gerne draussen.
+**Meine Besonderheiten:**\
+*gesprächig*\
+*vielseitig*\
+*Kreativ*\
+*Vielseitig*\
+*Humorvoll*\
+*Fröhlich*\
+*Neugierig*\
+\
+**Meine Stärken:**\
+*offen für Neues*\
+*begeisterungsfähig*\
+*gut im Diskutieren*\
+*flexibel*
