@@ -3,6 +3,7 @@ title = "Drohne fliegen"
 date = "2021-05-26"
 draft = false
 pinned = false
+tags = ["Drohnen"]
 image = "dji_0376.jpg"
 description = "In den Ferien waren wir ein par Tage im Jura ich schreibe darüber was ich für Drohnenbilder gemacht habe."
 +++
