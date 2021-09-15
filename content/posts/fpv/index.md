@@ -3,7 +3,7 @@ title = "FPV Drohnen"
 date = "2021-09-03"
 draft = false
 pinned = false
-tags = ["FPV", "Drohnen", ""]
+tags = ["FPV", "Drohnen"]
 image = "felix-berger-90tbihe2tdo-unsplash.jpg"
 description = "In diesem Blog schreibe ich über FPV Drohnen."
 +++
