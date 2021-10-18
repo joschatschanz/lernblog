@@ -3,6 +3,7 @@ title = "Eine Woche auf dem Bauernhof"
 date = "2021-10-18"
 draft = false
 pinned = false
+tags = []
 image = "drohnen-bild-1-.jpg"
 description = "Ich schreibe darüber was ich in einer Woche auf dem Bauerhof gelernt, erlebt und gemacht habe."
 +++
