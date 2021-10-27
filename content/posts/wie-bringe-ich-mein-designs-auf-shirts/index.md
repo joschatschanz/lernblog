@@ -21,4 +21,8 @@ Ich habe mir dann überlegt wo und wie ich das am einfachsten machen wollte. Wen
 
 Zum Zeitpunkt an dem ich diesen Blog schreibe ist mir noch etwas anderes in den Sin gekommen. Es giebt auch Internetseiten bei denen du dich anmelden kannst und deine eigenen Designs hochladen kannst. Diese Seiten stellen das dann Online und bieten es zum verkauf an. Wen jemand ein Produkt mit deinem Print bestellt, bekommst du einen teil der Einnahmen. Eine Internetseiten die das anbietet ist [redbubble](https://www.redbubble.com/de/explore/for-you/). wie ich erst jezt kapiere macht Spreadshirt das auch. Ich muss das umbedingt mahl ausprobieren.
 
+## Mein Endprodukt
+
+![]()
+
 Mein Shirt ist also angekommen und ich bin zufrieden. Das Projekt ist, wen man es genau nimmt, noch nicht fertig. Denn mein zu anfangs Gesetzes Ziel ist noch nicht erreicht. Da ich aber ein Ergebnis habe kann ich das auch durchgehen lassen. Ich kann mir aber gut vorstellen das ich bei dem T
