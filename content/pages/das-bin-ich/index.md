@@ -1,7 +1,7 @@
 +++
 title = "Das bin ich"
 draft = false
-image = "snapseed-1-.jpg"
+image = "joscha-bild-2-.jpeg"
 description = "Das bin Ich."
 +++
 ![](snapseed-1-.jpg)
