@@ -4,7 +4,7 @@ draft = false
 image = "joscha-bild-2-.jpeg"
 description = "Das bin Ich."
 +++
-![](snapseed-1-.jpg)
+![](joscha-bild-2-.jpeg)
 
 Ich heisse Joscha und bin 14 Jahre alt. Und das bin ich:
 
