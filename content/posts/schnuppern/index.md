@@ -13,8 +13,6 @@ Ich habe immer wieder verschiedene Berufe angeschaut. Der Beruf der mich am meis
 Ich habe im Anschluss ein Motivationsschreiben gemacht und ein Portfolio auf meinem Blog erstellt.
 Danach habe ich sehr viele Mails verschickt.
 
-Ich durfte beim Zoll Amt und beim BBL schnuppern gehen. Es waren spannende zwei Tage, in denen ich viel gelernt habe. Ich durfte auch mit Adobe Programmen arbeiten.
-
- 
+Ich durfte beim Zoll Amt und beim BBL schnuppern gehen. Es waren spannende zwei Tage, in denen ich viel gelernt habe. Ich habe sehr viel erfahren wie man Mediamatiker wird. Es gibet verschiedene Möglichkeiten zumbeispiel kann man übers Bict eine zwei Järige berufschuhle machen nach den man dann bei 60 Partnerfirmen arbeiten gehen kann.
 
 Ich kann mir gut vorstellen eine Lehre als Mediamatiker zu machen.
