@@ -13,6 +13,8 @@ Ich habe immer wieder verschiedene Berufe angeschaut. Der Beruf der mich am meis
 Ich habe im Anschluss ein Motivationsschreiben gemacht und ein Portfolio auf meinem Blog erstellt.
 Danach habe ich sehr viele Mails verschickt.
 
-Ich durfte beim Zoll Amt und beim BBL schnuppern gehen. Es waren spannende zwei Tage, in denen ich viel gelernt habe. Ich habe sehr viel erfahren wie man Mediamatiker wird. Es gibet verschiedene Möglichkeiten zumbeispiel kann man übers Bict eine zwei Järige berufschuhle machen nach den man dann bei 60 Partnerfirmen arbeiten gehen kann.
+Ich durfte beim Zoll Amt und beim BBL schnuppern gehen. Es waren spannende zwei Tage, in denen ich viel gelernt habe. Ich habe sehr viel erfahren wie man Mediamatiker wird. Den es gibt verschiedene Möglichkeiten. Man kann zumbespiel, wie das bei Swisscom der Fall ist, vier Jahre im Betrieb sein und hat dann einfach zwei tage in der Berufsschule das ist aber immer so. Die andere Möglichkeit ist das man sich bewirbt,  das bei SBB der fall und ist dann ein Jahr in einer Mediamatik Ausbildung. Nach dem Jahr kommt man dan in den Betrieb. Die dritte Möglichkeit ist das man zwei Jahre ins Bict geht dann in ein Partnerbetrieb wechselt und dort dann die restlichen zwei Jahre arbeitet.
+
+Das schnuppern hat mir wirklich spass gemacht und meine Meinung nur verstärkt. 
 
 Ich kann mir gut vorstellen eine Lehre als Mediamatiker zu machen.
