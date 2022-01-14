@@ -1,0 +1,20 @@
++++
+title = "Wie mache ich einen Video Blog"
+date = "2022-01-14"
+draft = true
+pinned = false
++++
+Ich gehe regelmäßig auf Münsigen und arbeite dort an Projekten. Etwas was ich dort mit den anderen Jugendlichen gemacht habe ist ein Moosgraffiti, was das ist erkläre ich in in Meinem Blog: [Moosgraffiti](https://www.joschatschanz.ch/moos-graffiti/).\
+Dort erwartet dich ein Video in dem Ich das erklähre und zeige wie das endstanden ist. In dem Blog geht es darum wie wir das gemacht haben, wieviel Mehraufwand und was ist meiner Meinung nach der Mehrwert?
+
+1. was habe ich gebraucht?
+
+Ich habe mir im Vorhinein überlegt was ich genau haben will. Ich hatte die Idee das ich einige Zeitraffer machen möchte. Dafür habe ich eine GoPro mit Klemme ausgeliehen und mitgenommen. Die kann ich sehr einfach an ein Geländer oder so Klemmen. Ich habe die GoPro zuhause schon so eingestellt das sie automatisch ein Zeitraffer erstellt.
+
+Dann habe ich meine Drohne mitgenommen. Die nehme ich eigentlich immer mit um Aufnahmen zu machen die Übersicht macht. Beispielsweisse habe ich eine Aufnahme des Ortes an dem das Graffiti endstanden ist gemacht. 
+
+Dann habe ich noch eine Kamera mitgenommen mit der ich FPV Perspektiven filmen kann. FPV steht für [First Person View](https://de.wikipedia.org/wiki/First_Person_View). Das ist eigentlich einer der einfachsten Aufnahmen da ich sie anbringen und record drücken. Dort entsteht halt einfach sehr viel was man nicht Brauchen kann.
+
+2. Studio(oder so)
+
+Da es Ja ein Blog ist habe ich mir gedacht das ich es, naja Moderiere wen man das so sagen kann. Da ich bei uns Zuhause noch eine Reporter Kamera ein Mic und zwei Lampen gefunden habe
