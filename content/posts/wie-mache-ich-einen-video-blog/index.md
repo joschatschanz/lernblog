@@ -1,12 +1,13 @@
 +++
-title = "Wie mache ich einen Video Blog"
+title = "Wie macht man ein Video Blog"
 date = "2022-01-14"
 draft = true
 pinned = false
 image = "blgo.jpg"
+description = "In diesem Blog schreibe ich darüber wie ich mein Videoblog gemacht habe"
 +++
 Ich gehe regelmäßig auf Münsigen und arbeite dort an Projekten. Etwas was ich dort mit den anderen Jugendlichen gemacht habe ist ein Moosgraffiti, was das ist erkläre ich in in Meinem Blog: [Moosgraffiti](https://www.joschatschanz.ch/moos-graffiti/).\
-Dort erwartet dich ein Video in dem Ich das erklähre und zeige wie das endstanden ist. In dem Blog geht es darum wie wir das gemacht haben, wieviel Mehraufwand und was ist meiner Meinung nach der Mehrwert?
+Dort erwartet dich ein Video in dem Ich das erklähre und zeige wie das endstanden ist. In dem Blog geht es darum wie ich dieses Video gemacht haben, wieviel Mehraufwand das ist und was ist meiner Meinung nach das Pro und Contra
 
 #### **was habe ich gebraucht?**
 
@@ -25,3 +26,9 @@ Dann habe ich mir ganz kurz überlegt was ich sagen möchte und habe das dann au
 #### Schnitt
 
 Das ist natürlich einer der Punkte der wahrscheinlich am meisten Zeit braucht. Aber ich war ehrlich gesagt ein wenig überrascht wie schnell das ganze trotz dem ging. Naja was soll ich dazu noch sagen ich habe es halt geschnitten.
+
+Ich bin mit dem Ergebnis zufrieden und kann mir vorstellen etwas in dieser art wieder zum machen wen sich das anbieten sollte.
+
+Etwas was ich aber auch gemerkt habe ist das man ein Videoblog garnicht mit einem normalen Blog vergleichen kann erstens vom Vormat aber auch vom Aufwand ist es etwas ganz anderes. 
+
+Ich denke aber das es einige Dinge gibt die ich einfach besser so darstellen und erklären kann.
