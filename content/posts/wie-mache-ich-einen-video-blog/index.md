@@ -3,6 +3,7 @@ title = "Wie mache ich einen Video Blog"
 date = "2022-01-14"
 draft = true
 pinned = false
+image = "blgo.jpg"
 +++
 Ich gehe regelmäßig auf Münsigen und arbeite dort an Projekten. Etwas was ich dort mit den anderen Jugendlichen gemacht habe ist ein Moosgraffiti, was das ist erkläre ich in in Meinem Blog: [Moosgraffiti](https://www.joschatschanz.ch/moos-graffiti/).\
 Dort erwartet dich ein Video in dem Ich das erklähre und zeige wie das endstanden ist. In dem Blog geht es darum wie wir das gemacht haben, wieviel Mehraufwand und was ist meiner Meinung nach der Mehrwert?
