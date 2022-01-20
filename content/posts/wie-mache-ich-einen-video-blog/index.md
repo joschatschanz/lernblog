@@ -23,4 +23,4 @@ Dann habe ich mir ganz kurz überlegt was ich sagen möchte und habe das dann au
 
 #### Schnitt
 
-Das ist natürlich einer der Punkte der warscheindlich am meisten Zeit braucht. Ich muss sagen ich
+Das ist natürlich einer der Punkte der wahrscheinlich am meisten Zeit braucht. Aber ich war ehrlich gesagt ein wenig überrascht wie schnell das ganze trotz dem ging. Naja was soll ich dazu noch sagen ich habe es halt geschnitten.
