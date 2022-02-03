@@ -4,6 +4,7 @@ date = "2022-02-02"
 draft = true
 pinned = false
 tags = ["shortblog"]
+image = "bildschirmfoto-2022-02-03-um-10.00.41.png"
 description = "Wie macht man ein gratis icon oder Logo?"
 +++
 Das ist eine Anleitung wie man Gratis und schnell ein eigenes Icon oder Logo erstellen kann.
