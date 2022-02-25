@@ -1,5 +1,5 @@
 +++
-title = "Kapselhotel"
+title = "eine Nacht im Kapselhotel"
 date = "2022-02-24"
 draft = false
 pinned = false
