@@ -1,7 +1,7 @@
 +++
 title = "eine Nacht im Kapselhotel"
 date = "2022-02-24"
-draft = false
+draft = true
 pinned = false
 tags = ["shortblog"]
 image = "alec-favale-rdia_qfpwhc-unsplash.jpg"
