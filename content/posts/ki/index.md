@@ -1,0 +1,37 @@
++++
+title = "KI"
+date = "2022-09-06"
+draft = true
+pinned = false
++++
+Künstliche Intelligenz ist die Zukunft oder vielleicht auch nicht. Wie auch immer, sie ist ziemlich interessant. Also lass uns ein wenig darüber reden.\
+\
+Ok das habe nicht ich geschrieben aber eine KI, was wahrscheinlich auch viel spannender ist. \
+\
+Mit dem Tool openai playground, was man auch gratis im Internet benutzen kann, kann man eine Beschreibung oder Stichwörter in ein Textfeld eingeben und die KI übernimmt den Rest. \
+\
+Auf die Frage: was versteht man unter Künstlicher Inteligentts? Bekam ich diesen Text.
+
+*Künstliche Intelligenz ist die Fähigkeit einer Maschine, menschliche Kognitionsleistungen zu erbringen, wie z.B. Probleme zu lösen, Entscheidungen zu treffen oder natürlichsprachige Anfragen zu verarbeiten.*\
+\
+Es ist wirklich unglaublich was dieses Tool alles kann. 
+
+
+
+
+
+
+
+
+
+Witz über Künstliche Inteligents. Deutsch 
+
+Wie nennt man eine künstliche Intelligenz, die versucht, menschlich zu sein? Ein Versuchskaninchen.
+
+
+
+
+
+Witz über Künstliche Inteligents. Deutsch \
+\
+Künstliche Intelligenz ist wie ein alter Mann: Sie ist klug, aber nicht so klug wie sie denkt.
