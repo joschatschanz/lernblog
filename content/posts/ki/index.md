@@ -1,5 +1,5 @@
 +++
-title = "KI"
+title = "KI 2"
 date = "2022-09-06"
 draft = true
 pinned = false
