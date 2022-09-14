@@ -3,6 +3,7 @@ title = "KI"
 date = "2022-09-14"
 draft = true
 pinned = false
+description = "Was ist KI "
 +++
 *Künstliche Intelligenz ist die Zukunft oder vielleicht auch nicht. Wie auch immer, sie ist ziemlich interessant. Also lass uns ein wenig darüber reden.*
 
