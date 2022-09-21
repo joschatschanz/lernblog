@@ -33,9 +33,9 @@ A﻿ntwort:
 
 dieses Bild würde übrigens mit der künstlichen Intelligenz DALL-E Erstellt
 
-V﻿on vielen Menschen wird das Thema Künstliche Inteligetz, zurecht, kritisch gesehen. Für was braucht es uns Menschen dan eingetlich noch? dass ist etwas was im beug aufs Thema zuhören ist. 
+V﻿on vielen Menschen wird das Thema Künstliche Intelligetz, zurecht, kritisch gesehen. Für was braucht es uns Menschen dan eigentlich noch? dass ist etwas was im Beug aufs Thema zuhören ist. 
 
-I﻿ch bin mir aber sicher das Dinge wie Kreativität oder Humor nie wirklich ersetzt werden könne. 
+I﻿ch bin mir aber sicher das Dinge wie Kreativität oder Humor nie wirklich ersetzt werden können. 
 
 B﻿eim Thema Humor wäre es doch wieder Zeit für ein KI Bestpiel.\
 \
