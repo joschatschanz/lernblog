@@ -3,6 +3,7 @@ title = "Praktische Anwendung von KI"
 date = "2022-09-14"
 draft = true
 pinned = false
+image = "bild-zu-blog-ki.jpg"
 description = "An der eduJAM 3 durfte ich ein intressantes Tool kennen lehren, es handelt sich um eine künstliche Intelligenz die anhand von Stichwörtern oder einer Beschreibung Textinhalt erstellen kann."
 +++
 *Künstliche Intelligenz ist die Zukunft oder vielleicht auch nicht. Wie auch immer, sie ist ziemlich interessant. Also lass uns ein wenig darüber reden.*
