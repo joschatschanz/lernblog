@@ -1,5 +1,52 @@
 # Changelog
 
+## Version 2.0.0-beta
+
+- Update Hugo to v0.104.3.
+- Upgrade to Bootstrap 5.2. Remove jQuery.
+- Paginate improvements and archive:
+  - Paginate home and tag pages differently (show more entries in tag pages).
+  - Fix paginator showing too many page numbers.
+  - Better paginator styling.
+  - Add an archive page.
+- ATOM feed improvements (JSON feed will be deprecated):
+  - Create feeds for each tag in addition to the main feed.
+  - Paginate feed (same pagination rules as the home and tag pages).
+  - Use [webfeeds](http://webfeeds.org/rss/1.0) namespace for `icon`, `logo`, `cover`, `accentColor`, and `featuredImage`.
+  - Add featured image to feed content if the feed contains no image.
+  - Improve `<updated>` field in entries: Use `:fileModTime` if `:git` info and `lastmod` (in frontmatter) are not available.
+- Layout: Do not use image zoom of images that are used as links.
+- Improve `figcaption` regex to identify images.
+- Add shortcodes for `{{<archive>}}`, `{{<box>}}{{</box>}}`, `{{<lead>}}{{</lead>}}`.
+  Also `{{<youtube video_id>}}` and `{{<vimeo video_id>}}` in non-tracking mode can be used.
+
+## Version 1.5.1 (2022-09-22)
+
+- Remove `utm_source` in atom feed links again (I don't like it in URLs).  
+- Fix Netlify CMS cursor jump issue in Chrome/Edge (see https://github.com/netlify/netlify-cms/issues/5092).
+
+## Version 1.5.0 (2020-11-01)
+
+- Change from lernblog.ch to lernblog.org.
+- No emojis and other non-Latin characters in slug.
+- Style: small color and size adjustments.
+- Use some nice mountains as default images.
+- FEED: Improve Atom XML feed (paging, full content, featured image)
+- Update to Hugo v0.88.1
+
+## Version 1.4.4 (2020-09-26)
+
+- Update Hugo to v0.75.1
+- Remove `disableFastRender` in the Hugo config.
+
+## Version 1.4.3 (2020-08-05)
+
+- Fix image urls in RSS and JSON Feeds.
+
+## Version 1.4.2 (2020-08-25)
+
+- CMS: Make E-Mail optional for author settings.
+
 ## Version 1.4.1 (2020-08-12)
 
 - Change preview path to home URL. The slug does not work correctly with the new folder structure.

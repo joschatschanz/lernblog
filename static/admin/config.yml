@@ -5,7 +5,11 @@ media_folder: "content/media"
 public_folder: "/media"
 
 site_url: "/"
-display_url: "https://lernblog.ch"
+display_url: "https://lernblog.org"
+
+slug:
+  encoding: "ascii" # Only allows characters (0-9, a-z, A-Z, _, -, ~)
+  clean_accents: true # Remove diacritics before sanitizing
 
 collections:
   - name: "posts"
@@ -235,6 +239,7 @@ collections:
               label: "E-Mail",
               name: "email",
               widget: "string",
+              required: false,
               hint: "Deine E-Mail-Adresse. Diese wird verwendet, um dich als Autor erreichen zu können (z.B. für die Lernblog-Plattform).",
             }
       - name: "design"

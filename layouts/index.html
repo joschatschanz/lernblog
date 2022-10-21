@@ -1,15 +1,11 @@
 {{ define "head_meta_includes" -}}
 {{ $posts := where (where .Site.Pages "Section" "posts") "Params.pinned" "!=" true -}}
 {{ $posts := $posts | union (where (where .Site.Pages "Section" "posts") "Params.pinned" true) -}}
-{{ $paginator := .Paginate $posts -}}
+{{ $paginator := .Paginate $posts .Site.Params.paginateHome -}}
 {{ .Scratch.Set "paginator" $paginator -}}
 
-{{ if $paginator.HasNext -}}
-	<link rel="next" href="{{ $paginator.Next.URL }}" />
-{{ end -}}
-{{ if $paginator.HasPrev -}}
-	<link rel="prev" href="{{ $paginator.Prev.URL }}" />
-{{ end -}}
+{{ if $paginator.HasNext }}<link rel="next" href="{{ $paginator.Next.URL | absURL }}" />{{ end }}
+{{ if $paginator.HasPrev }}<link rel="prev" href="{{ $paginator.Prev.URL | absURL }}" />{{ end }}
 {{ end }}
 
 {{ define "header" }}
@@ -19,16 +15,18 @@
 {{ $headerStyle := "" -}}
 {{ if $settingsDesign.Params.image -}}
 {{ $headerStyle = print `background-image: linear-gradient(rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.18)), url(` $settingsDesign.Params.image `);` -}}
+{{ else -}}
+{{ $headerStyle = print `background-color: ` $settingsDesign.Params.color `;` -}}
 {{ end -}}
 <header class="site-header site-header-img"{{ with $headerStyle }} style="{{ . | safeCSS }}"{{ end }}>
 	{{ partial "navigation.html" . }}
 
 	<div class="site-header-img-content container d-flex flex-column justify-content-center">
 		<h1 class="site-title">
-			{{ $settingsGeneral.Title | default "[Titel]" }}
+			{{ $settingsGeneral.Title | default "[Title]" }}
 		</h1>
 		<h2 class="site-description">
-			{{ $settingsGeneral.Description | default "[Untertitel]" }}
+			{{ $settingsGeneral.Description | default "[Subtitle]" }}
 		</h2>
 	</div>
 </header>
@@ -36,12 +34,15 @@
 
 {{ define "main" }}
 <main class="site-main container">
-	<div class="post-card-deck card-deck">
+	<div class="post-card-deck row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
 		{{ range (.Scratch.Get "paginator").Pages }}
 			{{ partial "post_card.html" . }}
 		{{ end }}
 	</div>
 	{{ partial "pagination.html" . }}
+	<div class="d-flex justify-content-center mt-3">
+		<a class="link-gray-no-underline" href="/archive/">— Archive —</a>
+	</div>
 </main>
 {{ end }}
 
