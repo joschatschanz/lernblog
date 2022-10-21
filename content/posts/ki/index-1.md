@@ -1,7 +1,7 @@
 +++
 title = "Künstliche Intelligenz"
 date = "2022-09-14"
-draft = true
+draft = false
 pinned = false
 image = "richtiges-blog-bild-ki.jpg"
 description = "An der eduJAM 3 durfte ich ein interessantes Tool kennenlernen, es handelt sich um eine künstliche Intelligenz, die anhand von Stichwörtern oder einer Beschreibung Textinhalt erstellen kann."
