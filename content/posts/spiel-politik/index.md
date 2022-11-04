@@ -12,4 +12,8 @@ Die Partei SHP setzt sich nun für freie Bildungswahl, Unterstützung unserer he
 
 Die Milchinitative, ist eine Lösung um Bäuerinnen und Bauern einen Fairen Preis für ihre Milch und somit ein Fairen Lohn zu gestatten. Der Milchpreis, in der Schweiz, soll nicht unter 1.10 fallen.
 
-Die drei anderen Parteien haben natürlich auch Initiativen entwickelt, zu denen wir uns, als Partei, auch eine Meinung bilden mussten.
+Die drei anderen Parteien haben natürlich auch Initiativen entwickelt, zu denen wir uns, als Partei, auch eine Meinung bilden mussten. \
+\
+In einen Debatierkurs haben wir einige Tips zum Thema gekriegt, um später, in den Kommission, unsere Ideen und Argumente, gut rüber zu bringen.\
+\
+In einer Komission wurden die Initativen mit unterschiedlichen Fraktionen besprochen
