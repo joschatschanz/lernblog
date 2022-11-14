@@ -16,4 +16,6 @@ Die drei anderen Parteien haben natürlich auch Initiativen entwickelt, zu denen
 \
 In einen Debatierkurs haben wir einige Tips zum Thema gekriegt, um später, in den Kommission, unsere Ideen und Argumente, gut rüber zu bringen.\
 \
-In einer Komission wurden die Initativen mit unterschiedlichen Fraktionen besprochen
+In einer Komission wurden die Initativen mit unterschiedlichen Fraktionen besprochen. Ich habe mich für die Pfand Initative an ge meldet.
+
+Wie es der Name schon sagt geht es um Pfand. Genauer gesagt um die Erhebung von Pfand, auf Pet, Alu und
