@@ -1,5 +1,5 @@
 +++
-title = "Werbung"
+title = "Daniel Schiffer"
 date = "2022-05-02"
 draft = true
 pinned = false
