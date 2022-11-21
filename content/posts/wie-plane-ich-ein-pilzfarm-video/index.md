@@ -3,7 +3,7 @@ title = "Wie Plane ich ein Pilzfarm Video?"
 date = "2022-11-19"
 draft = false
 pinned = false
-image = "shp.png"
+image = "slkfdjlksajf.png"
 description = "In der Pilzfarm werden Pilzboxen verkauft. Wie ich ein Video dazu mache, schreibe ich hier."
 +++
 In der Pilzfarm verkaufen wir die ersten Pilzboxen. Die Idee dabei ist, dass jeder und jede, die eine Pilzbox kauft, selber Pilze züchten kann. Dazu habe ich schon ein Video auf Instagram hoch geladen. 
