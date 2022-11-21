@@ -1,13 +1,16 @@
 +++
-title = "wie Plane ich ein Pilzfarm Video"
+title = "Wie Plane ich ein Pilzfarm Video?"
 date = "2022-11-19"
-draft = true
+draft = false
 pinned = false
+image = "shp.png"
 description = "In der Pilzfarm werden Pilzboxen verkauft. Wie ich ein Video dazu mache, schreibe ich hier."
 +++
 In der Pilzfarm verkaufen wir die ersten Pilzboxen. Die Idee dabei ist, dass jeder und jede, die eine Pilzbox kauft, selber Pilze züchten kann. Dazu habe ich schon ein Video auf Instagram hoch geladen. 
 
 Ich habe von Hermann den Auftrag erhalten, ein weiteres Video zu machen, in dem man sieht, wie diese Box funktioniert. Ich habe mir gedacht, dass das nicht ein schlechter Zeitpunkt wäre, einen Blog zu verfassen.
+
+![](shp.png)
 
 **Wie will ich vorgehen?**
 
