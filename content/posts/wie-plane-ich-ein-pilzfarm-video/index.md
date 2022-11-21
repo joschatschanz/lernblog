@@ -5,12 +5,14 @@ draft = true
 pinned = false
 description = "In der Pilzfarm werden Pilzboxen verkauft. Wie ich ein Video dazu mache, schreibe ich hier."
 +++
-In der Pilzfarm verkaufen wir die ersten Pilzboxen. Die Idee dabei ist, dass jeder und jede der eine Pilzbox kauft mit Hilfe eben dieser, selber Pilze züchten kann. Dazu habe ich schon ein kleines Video auf Instagram hoch geladen. Ich habe von Hermann den Auftrag erhalten, ein weiteres Video zu machen in dem man sieht wie diese Box funktioniert. Ich habe mir gedacht, dass das nicht ein schlechter Zeitpunkt wäre, einen Blog zu verfassen.
+In der Pilzfarm verkaufen wir die ersten Pilzboxen. Die Idee dabei ist, dass jeder und jede, die eine Pilzbox kauft, selber Pilze züchten kann. Dazu habe ich schon ein Video auf Instagram hoch geladen. 
 
-Wie will ich vorgehen?
+Ich habe von Hermann den Auftrag erhalten, ein weiteres Video zu machen, in dem man sieht, wie diese Box funktioniert. Ich habe mir gedacht, dass das nicht ein schlechter Zeitpunkt wäre, einen Blog zu verfassen.
 
-Dieses Kleine Projekt sehe ich als Gelegenheit etwas über "Kundenaufträge" zu lehren auch wen ich in diesem Fall viel Freiheit habe, was nicht immer so sein wird. 
+**Wie will ich vorgehen?**
 
-Ich arbeite sehr gerne mit dem Tool Milanote, dass ich im Effinger kennen gelernt habe. Mit Milanote, ist es möglich zu Branstormen, ToDo lists zu erstellen oder, wie in diesem Fall ein Video zu planen. Zu Beginn fasse ich alles zusammen, was ich weiss. Das Video soll im Querformat aufgenommen werden, es soll kurz aber informativ gestalltet sein, der zuschauer oder die zuschauerin soll nach dem Video wissen, wie züchde ich, mit Hilfe der Pilzbox, meine eigenen Pilze. 
+Dieses Projekt sehe ich als Gelegenheit etwas über "Kundenaufträge" zu lernen auch wen ich in diesem Fall viel Freiheit habe, was nicht immer so sein wird. 
 
-Mit diesen Infos schreibe ich jezt einen Text, den ich später als Vois over aufnehmen möchte. Diesen Text und, dass provisorisch aufgennomene Vois over zeige stelle ich beim nächsten Treffen mit Hermann, meinem Kunde, vor.
+Ich arbeite sehr gerne mit dem Tool Milanote, dass ich im Effinger kennen gelernt habe. Mit Milanote, ist es möglich zu brainstormen, ToDo Lists zu erstellen oder wie in diesem Fall ein Video zu planen. Zu Beginn fasse ich alles zusammen was ich weiss. Das Video soll im Querformat aufgenommen werden, es soll kurz aber informativ gestaltet sein, der Zuschauer oder die Zuschauerin soll nach dem Video wissen, wie züchte ich, mit Hilfe der Pilzbox, meine eigenen Pilze. 
+
+Mit diesen Infos schreibe ich jetzt einen Text, den ich später als Voiceover aufnehmen möchte. Diesen Text und, dass provisorisch aufgenommene Voiceover stelle ich beim nächsten Treffen mit Hermann, meinem Kunde, vor.
