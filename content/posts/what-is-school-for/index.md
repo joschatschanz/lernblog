@@ -10,10 +10,10 @@ Auf Youtube bin ich auf dieses Video gestossen:\
 
 Dazu habe ich mir Gedanken gemacht. 
 
-Eine Frage die ich mir gestellt habe war zumbeispiel: Kling, dass was im Video gesagt wird nur gut oder ist es das auch?
+Eine Frage die ich mir gestellt habe war zum Beispiel: Klingt das, was im Video gesagt wird, nur gut oder ist es das auch?
 
-Ich habe mir das Video mehrere mahle angesehen und finde es wirklich sehr gut gemacht. Es hat etwas von einem Gedicht, wie ich finde. Nun ja es reimt sich, bei genauerem hin hören, auch einiges. Mit den Dingen die Besprochen wurden, bin ich auch zum größten Teil einverstanden. Beindruckt hat mich vorallem wie, dass Video aufgebaut ist und wie es insgesamt ersählt wird. 
+Ich habe mir das Video mehrere Male angesehen und finde es wirklich sehr gut gemacht. Es hat etwas von einem Gedicht. Zudem reimt sich, bei genauerem Hinhören, auch einiges. Mit den Dingen, die besprochen werden, bin ich auch zum größten Teil einverstanden. Beeindruckt hat mich vor allem wie das Video aufgebaut ist und wie es insgesamt erzählt wird. 
 
 Eine weitere Frage, die ich mir bei solchen Themen auch häufig stelle, ist ob es wirklich was zur Sache beiträgt.
 
-Die Problematik wird, meiner Meinung nach, super vermitelt. Ich bin mir zudem sicher, dass es auch viele Menschen zum nachdenken angeregt hat, mich in begriffen. Top
+Die Problematik wird, meiner Meinung nach, super vermittelt. Ich bin mir zudem sicher, dass es auch viele Menschen zum Nachdenken angeregt hat, mich in begriffen.
