@@ -1,5 +1,5 @@
 +++
 headless = true
-siteHeader = "<style>\n.site-title,\n.site-description {\n  color: 44A2BB;\n}\n</style>"
+siteHeader = "<style>\n.site-title,\n.site-description {\n  color: #306F5F;\n}\n</style>"
 siteFooter = ""
 +++
