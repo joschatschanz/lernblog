@@ -10,7 +10,7 @@ In der Pilzfarm verkaufen wir die ersten Pilzboxen. Die Idee dabei ist, dass jed
 
 Ich habe von Hermann den Auftrag erhalten, ein weiteres Video zu machen, in dem man sieht, wie diese Box funktioniert. Ich habe mir gedacht, dass das nicht ein schlechter Zeitpunkt wäre, einen Blog zu verfassen.
 
-![](shp.png)
+![](slkfdjlksajf.png)
 
 **Wie will ich vorgehen?**
 
