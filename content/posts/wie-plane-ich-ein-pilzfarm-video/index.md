@@ -18,4 +18,4 @@ Dieses Projekt sehe ich als Gelegenheit etwas über "Kundenaufträge" zu lernen 
 
 Ich arbeite sehr gerne mit dem Tool Milanote, dass ich im Effinger kennen gelernt habe. Mit Milanote, ist es möglich zu brainstormen, ToDo Lists zu erstellen oder wie in diesem Fall ein Video zu planen. Zu Beginn fasse ich alles zusammen was ich weiss. Das Video soll im Querformat aufgenommen werden, es soll kurz aber informativ gestaltet sein, der Zuschauer oder die Zuschauerin soll nach dem Video wissen, wie züchte ich, mit Hilfe der Pilzbox, meine eigenen Pilze. 
 
-Mit diesen Infos schreibe ich jetzt einen Text, den ich später als Voiceover aufnehmen möchte. Diesen Text und, dass provisorisch aufgenommene Voiceover stelle ich beim nächsten Treffen mit Hermann, meinem Kunde, vor.
+Mit diesen Infos schreibe ich jetzt einen Text, den ich später als Voiceover aufnehmen möchte. Diesen Text und, dass provisorisch aufgenommene Voiceover stelle ich beim nächsten Treffen mit Hermann, meinem Kunden, vor.
