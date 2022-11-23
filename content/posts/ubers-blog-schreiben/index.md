@@ -10,7 +10,7 @@ Wen man sich meine Blogseite ansieht, fällt einem schnell auf, dass sehr unrege
 
 ![](bernard-hermant-qtpc0vj4yoe-unsplash-1-1-.jpg)
 
-Blogs haben ich und Herrmann im Mentoring besprochen. \
+Blogs haben ich und Hermann im Mentoring besprochen. \
 wir haben abgemacht:
 
 \- Rechtschreibung wir korrigiert
