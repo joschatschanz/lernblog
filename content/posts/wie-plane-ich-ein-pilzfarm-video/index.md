@@ -1,5 +1,5 @@
 +++
-title = "Wie Plane ich ein Pilzfarm Video?"
+title = "Wie plane ich ein Pilzfarm Video?"
 date = "2022-11-19"
 draft = false
 pinned = false
