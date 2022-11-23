@@ -13,7 +13,7 @@ Wen man sich meine Blogseite ansieht, fällt einem schnell auf, dass sehr unrege
 Blogs haben ich und Hermann im Mentoring besprochen. \
 wir haben abgemacht:
 
-\- Rechtschreibung wir korrigiert
+\- Rechtschreibung wird korrigiert
 
 \- Weg vom Perfektionismus 
 
