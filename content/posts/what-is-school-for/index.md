@@ -1,11 +1,11 @@
 +++
 title = "What is school for?"
 date = "2022-11-19"
-draft = true
+draft = false
 pinned = false
 description = "Ich bin auf Youtube auf ein Video gestossen. Ich schreibe meine Gedanken dazu auf."
 +++
-Auf Youtube bin ich auf dieses Video gestossen:\
+Auf Youtube bin ich auf dieses Video gestossen:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PsLRgEYf9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
