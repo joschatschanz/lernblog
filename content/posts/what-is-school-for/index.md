@@ -3,6 +3,7 @@ title = "What is school for?"
 date = "2022-11-19"
 draft = false
 pinned = false
+image = "andrew-ebrahim-zrwxf6pizeo-unsplash.jpg"
 description = "Ich bin auf Youtube auf ein Video gestossen. Ich schreibe meine Gedanken dazu auf."
 +++
 Auf Youtube bin ich auf dieses Video gestossen:
