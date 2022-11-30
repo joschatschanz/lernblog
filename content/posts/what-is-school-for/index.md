@@ -1,6 +1,6 @@
 +++
 title = "What is school for?"
-date = "2022-11-19"
+date = "2022-11-20"
 draft = false
 pinned = false
 image = "andrew-ebrahim-zrwxf6pizeo-unsplash.jpg"
