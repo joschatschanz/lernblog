@@ -4,7 +4,7 @@ date = "2022-12-05"
 draft = true
 pinned = false
 +++
-Vieleicht hat jemand von euch schon von der Militanten Veganerin gehört. Das ist eine Influenzerin die vor allem auf TikTok, mit provokativen Videos, Aufmerksamkeit erlang. Es geht, wie man vieleicht vermuten könnte, um Veganismus.
+Vielleicht hat jemand von euch schon von der "Militanten Veganerin" gehört. Das ist eine influencerin die vor allem auf TikTok, mit provokativen Videos, Aufmerksamkeit erlang. In den Tiktoks und YouTube Videos geht es ausschlieslich um Veganismus und Tierschutz.
 
 Die Aktivistin konfrontiert Menschen auf der Strasse mit ihrer, recht krassen Meinung und wird dabei oft unfreundlich oder bring sehr kritische Vergleiche.
 
