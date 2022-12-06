@@ -1,5 +1,5 @@
 +++
-title = "Mit agression Meinungen vertretten "
+title = "Nicht der richtige Weg etwas zu ändern?"
 date = "2022-12-05"
 draft = true
 pinned = false
