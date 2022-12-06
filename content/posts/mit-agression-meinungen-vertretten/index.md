@@ -3,7 +3,7 @@ title = "Nicht der richtige Weg etwas zu ändern?"
 date = "2022-12-05"
 draft = true
 pinned = false
-description = ""
+description = "Die Militanten Veganerin ist eine influencerin die vor allem auf TikTok, mit provokativen Videos, Aufmerksamkeit erlangt. Ist das der richtige Weg?"
 footnotes = "Politik, Meinung"
 +++
 Vielleicht hat jemand von euch schon von der "Militanten Veganerin" gehört. Das ist eine influencerin die vor allem auf TikTok, mit provokativen Videos, Aufmerksamkeit erlangt. In den Tiktoks und YouTube Videos geht es ausschliesslich um Veganismus und Tierschutz. Eigentlich ist, dass ja eine gute Sache.
