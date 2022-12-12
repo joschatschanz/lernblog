@@ -20,4 +20,4 @@ Auch in diesem Fall ist das Thema wichtig aber leider rückt diese Aktion auch f
 
 **Doch was ist der richtige Weg?**
 
-**Ich finde, dass man mit Aufklärung mehr erreichen kann als stumpfen Anschuldigungen.**
+**Ich finde, dass man mit Aufklärung mehr erreichen kann als mit stumpfen Anschuldigungen.**
