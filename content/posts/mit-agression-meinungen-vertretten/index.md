@@ -20,4 +20,4 @@ Auch in diesem Fall ist das Thema wichtig aber leider rückt diese Aktion auch f
 
 **Doch was ist der richtige Weg?**
 
-**Ich finde, dass man mit Aufklärung mehr erreichen kann als mit stumpfen Anschuldigungen.**
+Leute die für eine gute Sache stehen sind wichtig. Es giebt einige Menschen, die für eine gute Sache stehen und wirklich etwas veränder. Als beispiel: [Robert Marc Lehmann](https://www.youtube.com/@MissionErde/playlists). Robert Mark Lehman, ist ein Meeresbiologe und erstellt Videos und Livestreams auf Youtube. Das Haubtthema ist, wie man sich schon denken kann, der schutz der Meere. Er klärt aber auch in anderen Themen wie Urwald auf. In einem Livestrem wurden zumbeispiel über 100 000 Euros für Haie gesammelt. In seinen Videos und Livestreams kann man seine begeisterung für die Meere und das Bedürfniss diese zu schützen, wirklich spüren und wie man schon oft gesehen hat, kann er so auch vieles ereichen.
