@@ -3,6 +3,7 @@ title = "Nicht der richtige Weg etwas zu ändern?"
 date = "2022-12-05"
 draft = true
 pinned = false
+image = "david-marcu-78a265wpio4-unsplash.jpg"
 description = "Die \"Militante Veganerin\" ist eine Influencerin, die vor allem auf TikTok mit provokativen Videos Aufmerksamkeit erlangt. Ist das der richtige Weg?"
 footnotes = "Politik, Meinung"
 +++
