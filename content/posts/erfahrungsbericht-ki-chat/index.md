@@ -1,12 +1,12 @@
 +++
-title = "Erfahrungsbericht: KI Chat "
+title = "Erfahrungsbericht: ChatGPT"
 date = "2022-12-19"
 draft = false
 pinned = false
 image = "ki-bild-kleiner-kopie.png"
-description = "Die Chancen, dass du schon mal von der Chat KI gehört hast, stehen sehr gut. Ich schreibe hier meine Erfahrungen und Gedanken auf."
+description = "Die Chancen, dass du schon mal von ChatGPT gehört hast, stehen sehr gut. Ich schreibe hier meine Erfahrungen und Gedanken auf."
 +++
-Die Chancen, dass du schon mal von der Chat KI gehört hast, stehen sehr gut. Ich schreibe hier meine Erfahrungen und Gedanken auf.
+Die Chancen, dass du schon mal von ChatGPT gehört hast, stehen sehr gut. Ich schreibe hier meine Erfahrungen und Gedanken auf.
 
 **Um was geht es?**
 
