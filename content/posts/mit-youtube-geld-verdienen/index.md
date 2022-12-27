@@ -1,7 +1,7 @@
 +++
 title = "Mit Youtube Geld verdienen?"
 date = "2022-12-26"
-draft = true
+draft = false
 pinned = false
 description = "Ich habe mich in letzter Zeit mit Youtube beschäftigt. Was ich gelernt und erfahren habe, schreibe ich hier auf."
 +++
