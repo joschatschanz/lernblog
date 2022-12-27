@@ -10,15 +10,15 @@ Die Platform Youtube hat wahrscheinlich jede und jeder, der diesen Blog liest, s
 
 Wie gesagt, mit Youtube lässt sich Geld verdienen. Das können aber natürlich nur diejenigen, die auch wirklich erfolgreich werden. Doch oft gibt es auf grösseren Kanälen auch Menschen, die hinter der Kamera arbeiten und filmen oder ein Video schneiden. Das interessiert mich. Cutter und CutterInnen werden auch meistens öffentlich gesucht. Max, ein Youtuber, der Food Videos in Köln macht, hat vor einigen Monaten in einem Video einen Link für die Rohdaten eines anderen Videos veröffentlicht. Ich habe mir gedacht, ich schneide daraus auch ein kleines Video und schaue mal, wie das ist, ein Video einer anderen Person zu schneiden. Natürlich nicht um mich zu bewerben, sondern eher um zu Lernen und Erfahrungen zu sammeln.\
 \
-In dem Youtubevideo geht es um geheime Food Spots in Köln. Ich habe einer dieser Spots zu einem kleinen Video zusammen geschnitten:\
-\
+In dem Youtubevideo geht es um geheime Food Spots in Köln. Ich habe einer dieser Spots zu einem kleinen Video zusammen geschnitten:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKy_uZqEtjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
 
 Das Original auf dem Kanal von Max, geschnitten von seinem Cutter:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P8yMaTetkG8?start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
-\
-\*\*Was habe ich gelernt?\*\*\
+
+**Was habe ich gelernt?**
 Ich habe Einiges aus diesem Projekt gelernt. Zum Einen habe ich Neues zum Thema Sound-Design gelernt. Es gibt in Finalcut, meinem Filmschneideprogramm, ein Souroundsound Funktion, die man in einem Projekt aktivieren kann. Mit der man, mit Hilfe des unten gezeigten Tool, recht einfach einstellen kann, von wo genau der Ton kommt. 
 
 ![](bildschirm-foto-2022-12-26-um-23.28.45.png)
