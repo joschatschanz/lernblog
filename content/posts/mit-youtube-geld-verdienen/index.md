@@ -3,6 +3,7 @@ title = "Mit Youtube Geld verdienen?"
 date = "2022-12-26"
 draft = false
 pinned = false
+image = "bildschirm_foto-2022-12-26-um-23.41.48.jpeg"
 description = "Ich habe mich in letzter Zeit mit Youtube beschäftigt. Was ich gelernt und erfahren habe, schreibe ich hier auf."
 +++
 Die Platform Youtube hat wahrscheinlich jede und jeder, der diesen Blog liest, schon mal benützt. Youtube ist unglaublich vielfältig. Es gibt fast zu jedem Thema Videos, mit denen man auch super neue Dinge lernen kann. Mit Youtube haben sich auch mehrere neue Berufe entwickelt: Youtuber und Youtuberinnen. Denn mit Youtube kann auch Geld verdient werden. Youtube zahlt, ab einer gewissen Reichweite, einen kleinen Betrag pro Klick und schaltet Werbung auf solche bezahlten Videos. Doch viele Creators verdienen den grössten Teil ihres Lohnes mit externen Werbepartnern. Das heisst, dass zum Beispiel eine Firma, die Gaming Laptops verkauft, einen Creator der Gaming Videos macht, anfragt, ob er einen Laptop in einem Video erwähnen kann. In Youtube Deutschland gehört es aber zum Ehrenkodex, dass man nur Werbung für eine Sache oder ein Produkt macht, hinter dem man stehen kann. Was natürlich nicht heisst, dass sich jeder und jede da dran hält. Wenn ein grösserer Youtuber zum Beispiel Werbung für Glücksspiel oder andere fragwürdige Produkte macht, wird das meistens kritisiert.
