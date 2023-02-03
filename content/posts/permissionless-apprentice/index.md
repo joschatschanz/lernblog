@@ -4,12 +4,18 @@ date = "2023-01-31"
 draft = true
 pinned = false
 +++
-Ich habe das Problem, dass ich mich in Dinge vertiefe, die eigendlich nicht wirklich wichtig zu sein scheinen. Und so ist es auch mit dem Thema um das dieser Blog handelt. Wen ich mich schon mit solchen Themen beschäftige sollte ich meine Learnings wenigstens Reflektieren. \
-\
-Dieser Blog dreht sich ums Thema Geld und wie man dies verdienen kann. 
+Dieser Blog dreht sich ums Thema Geld und wie man dies verdienen kann.
 
-Bei meiner zukünftigen Lehrstelle ([Yolu](https://www.yolu.ch/)) darf ich schon Jetzt, mit eigen Projekten Geld verdienen und in meiner "Freizeit", die Grenzen sind bei meiner Arbeit im Effinger nicht immer so klar zu erkennen, beschäftige ich mich mit dem Thema Investieren. Beschäftigen heist bei mir oft Podcasts hören und Youtube-Videos anschauen und über diese Platform wurde mir auch, dass Video angezeigt von dem ich die Idee fürs Thema in diesem Blog erhalten habe. Nämlich Permissionless Apprentice. 
+Bei meiner zukünftigen Lehrstelle ([Yolu](https://www.yolu.ch/)) darf ich schon Jetzt, mit eigenen Projekten Geld verdienen und in meiner "Freizeit", die Grenzen sind bei meiner Arbeit im Effinger nicht immer so klar zu erkennen, beschäftige ich mich mit dem Thema Investieren. Beschäftigen heisst bei mir oft Podcasts hören und Youtube-Videos anschauen. Über diese Platform wurde mir auch das Video angezeigt das die Idee fürs Thema in diesem Blog geliefert hat. Es geht nämlich um Permissionless Apprentice.
 
-Permissionless Apprentice ist eine art an Aufträge zu kommen. Die Idee dabei ist, dass man eine Arbeit ungefragt erledigt und diese dem potenzielen Kunden oder der Kundin verkauft. 
+Permissionless Apprentice ist eine andere Art, an Projekte zu kommen. Es geht darum, dass man eine Arbeit erledigt oder ein Problem löst ohne, dass jemand gefragt hat. Wen der Kunde oder die Kundin mit dem Ergebnis zufrieden ist, kannst du es verkaufen oder eine langfristige Vereinbarung treffe. Der Vorteil ist das man so natürlich aus der Masse heraussticht und auch direkt ein Ergebnis hat. Der Nachteil ist aber, dass man es sich aber auch leisten muss eine Arbeit zu machen, die vielleicht nicht bezahlt wird. 
 
-Also Hatte ich die Idee dies aus zu probieren.
+Da ich aber noch nicht in meiner Lehre bin habe ich Zeit um, dass aus zu probieren.
+
+Meine Idee: 
+
+Die Kurzvideo Plattform TikTok boomte in den letzten Jahren enorm. Dies führte dazu, dass auch andere Plattformen wie YouTube, mit Youtube-Shorts oder Instagram mit Instagram-Reels nachgezogen haben. Da solche Plattformen dem den Nutzerinnen und Nutzern mit Hilfe eines Algorithmus einfach Videos anzeigt kann es vorkommen, dass auch ein Video eines kleinen Kanals unerwartet viele Aufmerksamkeit gerhält.
+
+Das birgt eine völlig neue Marketing Möglichkeit mit sich. 
+
+Ich habe also ein Video eines Youtuber downgeloadet und in Hochformat und TikTok-Kürze umgeschnitten. Ich warte noch auf eine Antwort…
