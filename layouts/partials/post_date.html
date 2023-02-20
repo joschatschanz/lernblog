@@ -1,3 +1,0 @@
-{{ printf `<time class="post-date" datetime="%s">` (.Date.Format "2006-01-02") | safeHTML -}}
-  {{ .Date.Day }}. {{ partial "i18n_month" .Date }} {{ .Date.Year -}}
-</time>
