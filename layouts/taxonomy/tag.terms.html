@@ -1,0 +1,26 @@
+{{ define "header" }}
+<header class="site-header">
+	{{ partial "navigation.html" . }}
+
+	<div class="tag-header container">
+    <h5 class="tag-description">
+      <a class="link-gray-underline-hover" href="/">&larr; Home</a> 
+    </h5>
+		<h1 class="tag-title">
+      <span>Tags</span> 🏷️
+		</h1>
+	</div>
+</header>
+{{ end }}
+
+{{ define "main" }}
+<main class="site-main container">
+  <div class="article-content mt-4">
+    <ul class="list-unstyled">
+      {{ range sort .Pages "Title" }}
+        <li class="mb-1"><a href="{{ .RelPermalink }}">#{{ .Title }}</a> ({{ len .Pages }})</li>
+      {{ end }}
+    </ul>
+  </div>
+</main>
+{{ end }}

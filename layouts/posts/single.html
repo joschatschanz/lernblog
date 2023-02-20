@@ -1,0 +1,77 @@
+{{ define "main" }}
+{{ $settingsAuthor := .Site.GetPage "/settings/author" -}}
+<main class="site-main">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 offset-lg-1 col-lg-10 offset-xl-2 col-xl-8">
+				<div class="post-header">
+					{{ with .Params.tags }}
+					<ul class="post-tags list-inline">
+						{{ range . }}
+						<li class="list-inline-item">
+							<a class="link-main-no-underline" href="{{ partial `tag_url.html` . }}">#{{ . }}</a>
+						</li>
+						{{ end }}
+					</ul>
+					{{ end }}
+					
+					<h1 class="post-title">{{ .Title }}</h1>
+					
+					<div class="post-meta">
+						<img src="{{ $settingsAuthor.Params.image | default `/img/default-author.jpg` }}" class="rounded-circle" alt="{{ $settingsAuthor.Params.name }}">
+						{{ $settingsAuthor.Params.name }} <span class="dot"></span> {{ partial "post_date.html" . }}
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-12 offset-lg-1 col-lg-10 offset-xl-2 col-xl-8">
+				<div class="article-content">
+					{{ partial "figcaption.html" .Content }}
+
+					{{ with .Params.footnotes }}
+					<div class="footnotes">
+						<hr>
+						{{ . | markdownify }}
+					</div>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
+
+{{- /* Related Content */}}
+{{- $posts := where .Site.RegularPages "Section" "posts" }}
+{{- $related := $posts.Related . | first 3 }}
+
+{{- /* Add previous and next. Will show if not already enough related are there. */}}
+{{- if and (.NextInSection) (not (in $related .NextInSection)) }}
+	{{- $related = $related | append .NextInSection }}
+{{- end}}
+{{- if and (.PrevInSection) (not (in $related .PrevInSection)) }}
+	{{- $related = $related | append .PrevInSection }}
+{{- end}}
+
+{{- if $related }}
+<aside class="site-related">
+	<div class="site-related-inner">
+		<div class="container">
+			<div class="site-related-row row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+				{{ range $index, $post := $related | first 3 }}
+				{{ if le $index 1 }}
+					<div class="col">
+				{{ else }}
+					<div class="col d-none d-md-block">
+				{{ end }}
+					{{ partial "post_card.html" (dict "post" $post "small" true) }}
+				</div>
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</aside>
+{{- end }}
+
+{{ end }}

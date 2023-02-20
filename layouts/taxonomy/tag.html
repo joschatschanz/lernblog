@@ -1,0 +1,35 @@
+{{ define "head_meta_includes" -}}
+{{ $paginator := .Paginate .Pages .Site.Params.paginateTags -}}
+{{ .Scratch.Set "paginator" $paginator -}}
+
+{{ if $paginator.HasNext }}<link rel="next" href="{{ $paginator.Next.URL | absURL }}" />{{ end }}
+{{ if $paginator.HasPrev }}<link rel="prev" href="{{ $paginator.Prev.URL | absURL }}" />{{ end }}
+{{ end }}
+
+{{ define "header" }}
+<header class="site-header">
+	{{ partial "navigation.html" . }}
+
+	<div class="tag-header container">
+    <h5 class="tag-description">
+      <a class="link-gray-underline-hover" href="/tags/">&larr; Tags 🏷️</a> 
+    </h5>
+		<h1 class="tag-title">
+      <span>#{{ .Title }}</span>
+		</h1>
+	</div>
+</header>
+{{ end }}
+
+{{ define "main" }}
+<main class="site-main container">
+  <div class="post-card-deck row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+    {{ range (.Scratch.Get "paginator").Pages }}
+    <div class="col">
+			{{ partial "post_card.html" . }}
+		</div>
+    {{ end }}
+  </div>
+  {{ partial "pagination.html" . }}
+</main>
+{{ end }}

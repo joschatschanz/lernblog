@@ -1,0 +1,3 @@
+{{ printf `<time class="post-date text-nowrap" datetime="%s">` (.Date.Format "2006-01-02") | safeHTML -}}
+  {{ .Date | time.Format ":date_long" -}}
+</time>

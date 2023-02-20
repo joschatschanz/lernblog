@@ -1,15 +1,17 @@
 languageCode = "de"
+defaultContentLanguage = "de"
+
 removePathAccents = true
 buildFuture = true
 paginatePath = "page"
-disableKinds = ["RSS", "section"]
+disableKinds = ["RSS"]
 pygmentsCodefences = true
-copyright = "2022 by lernblog.org - Creative Commons Attribution-ShareAlike 4.0"
+copyright = "2023 by Lilo.Blog - Creative Commons Attribution-ShareAlike 4.0"
 
 [params]
-lernblogName = "Lernblog"
-lernblogVersion = "2.0.0-beta"
-lernblogUrl = "https://www.lernblog.org"
+blogName = "Lilo.Blog"
+blogVersion = "3.0.1"
+blogUrl = "https://www.lilo.blog"
 paginateHome = 12
 paginateTags = 36
 
@@ -21,7 +23,7 @@ pages = "/:filename/"
 tag = "tags"
 
 [outputs]
-home = ["HTML", "ATOM", "JSON"]
+home = ["HTML", "ATOM"]
 term = ["HTML", "ATOM"]
 
 [mediaTypes."application/atom+xml"]
@@ -33,13 +35,24 @@ baseName = "index"
 isPlainText = false
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 [frontmatter]
 lastmod = ['lastmod', ':git', ':fileModTime', 'date', 'publishDate']
 
+[related]
+includeNewer = true
+threshold = 50
+toLower = true
+[[related.indices]]
+name = "tags"
+weight = 80
+[[related.indices]]
+name = "date"
+weight = 60
+
 [privacy]
-  [privacy.vimeo]
-    enableDNT = true
-  [privacy.youtube]
-    privacyEnhanced = true
+[privacy.vimeo]
+enableDNT = true
+[privacy.youtube]
+privacyEnhanced = true

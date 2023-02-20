@@ -1,24 +1,64 @@
 # Changelog
 
-## Version 2.0.0-beta
+## Version 3.0.1 (2022-12-08)
 
-- Update Hugo to v0.104.3.
+- Admin: Remove email from author settings. Add link to author page. 
+- ATOM feed:
+  - Remove author email
+  - Add avatar (profile image)
+  - Add link to author page.
+  - Use favicon as feed icon.
+
+## Version 3.0.0 (2022-12-03)
+
+- Rebranding: Rename Lernblog to Lilo.Blog and change Domain to lilo.blog.
+
+## Version 2.0.5 (2022-11-17)
+
+- Format config.toml.
+
+## Version 2.0.4 (2022-11-07)
+
+- Fix navigation autohide bug: In Safari the scroll position at the top was not correctly dectected because of the 
+  browsers bounce effect. This caused the navigation to be hidden when it should not be hidden.
+
+## Version 2.0.3 (2022-11-05)
+
+- Fix first heading in box (alert, accordion) having a large top margin.
+
+## Version 2.0.2 (2022-11-03)
+
+- 💛 Use yellow heart in footer. Just because.
+- Add example Links in right footer.
+
+## Version 2.0.1 (2022-11-03)
+
+- Replace deprecated 'dateFormat' with 'date_format' and 'editorComponents' with 'editor_components' in CMS Admin config.yml.
+- Replace deprecated 'date' widget with 'datetime' in CMS Admin config.yml.
+
+## Version 2.0.0 (2022-11-01)
+
+- Update Hugo to v0.105.0.
 - Upgrade to Bootstrap 5.2. Remove jQuery.
 - Paginate improvements and archive:
   - Paginate home and tag pages differently (show more entries in tag pages).
   - Fix paginator showing too many page numbers.
   - Better paginator styling.
-  - Add an archive page.
-- ATOM feed improvements (JSON feed will be deprecated):
+  - Add an archive page under `/posts/`.
+- ATOM feed improvements (JSON feed will be removed):
   - Create feeds for each tag in addition to the main feed.
   - Paginate feed (same pagination rules as the home and tag pages).
   - Use [webfeeds](http://webfeeds.org/rss/1.0) namespace for `icon`, `logo`, `cover`, `accentColor`, and `featuredImage`.
   - Add featured image to feed content if the feed contains no image.
   - Improve `<updated>` field in entries: Use `:fileModTime` if `:git` info and `lastmod` (in frontmatter) are not available.
+- BREAKING: Remove JSON feed (did not increase in popularity in recent years and is a hassle to keep synced with ATOM feed).
 - Layout: Do not use image zoom of images that are used as links.
 - Improve `figcaption` regex to identify images.
-- Add shortcodes for `{{<archive>}}`, `{{<box>}}{{</box>}}`, `{{<lead>}}{{</lead>}}`.
+- Improve print layout.
+- Add shortcodes for `{{<box>}}{{</box>}}`, `{{<lead>}}{{</lead>}}`.
   Also `{{<youtube video_id>}}` and `{{<vimeo video_id>}}` in non-tracking mode can be used.
+- Add examples for box, lead, youtube, and vimeo.
+- Show related blog posts at the bottom of each post.
 
 ## Version 1.5.1 (2022-09-22)
 
