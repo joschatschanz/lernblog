@@ -9,9 +9,9 @@ description = "Das habe ich bei meinem Ersten \"richtigen\" Filmauftrag gelernt.
 +++
 Über YOLU habe ich einen Videoauftrag von Tom und Dominic erhalten. Dominic spielt Schach und um dieses Hobby zu finanzieren, starten sie eine Crowdfunding-Kampagne, für die sie ein Video benötigen. Wir haben besprochen, wie wir das Ganze gestalten wollen und uns für ein Interview mit B-Roll-Aufnahmen entschieden. Ich durfte die Aufnahmen dann im Studio aufnehmen und später schneiden.
 
-![](gross-img_0778-.jpeg)
+![](mittel-img_0778-.jpeg)
 
-![](gross-img_0777-.jpeg)
+![](mittel-img_0777-2.jpeg)
 
 \
 **Was habe ich gelernt?** \
@@ -21,7 +21,7 @@ Um den Preis zu erarbeiten, habe ich eine Aufwandsschätzung gemacht. Ich rechne
 
 Beim Dreh habe ich natürlich auch viel gelernt. Zum Beispiel, dass man möglichst viel im Voraus planen sollte. Wenn man nämlich zu wenig plant, kann das Stress auslösen.
 
-![](gross-chess-.jpeg)
+![](mittel-chess-.jpeg)
 
 \
 **Fazit:** \
