@@ -4,7 +4,7 @@ date = "2023-03-02"
 draft = false
 pinned = false
 tags = ["YOLU", "Colearning", ""]
-image = "gross-chess-.jpeg"
+image = "mittel-klein-bild-dings-.jpeg"
 description = "Das habe ich bei meinem Ersten \"richtigen\" Filmauftrag gelernt."
 +++
 Über YOLU habe ich einen Videoauftrag von Tom und Dominic erhalten. Dominic spielt Schach und um dieses Hobby zu finanzieren, starten sie eine Crowdfunding-Kampagne, für die sie ein Video benötigen. Wir haben besprochen, wie wir das Ganze gestalten wollen und uns für ein Interview mit B-Roll-Aufnahmen entschieden. Ich durfte die Aufnahmen dann im Studio aufnehmen und später schneiden.
