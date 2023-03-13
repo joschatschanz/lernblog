@@ -1,7 +1,7 @@
 +++
 title = "Von XLR zu Klinke: Wie ich mein altes Mikrofon mit Adaptern fit für die moderne Welt machte"
-date = "2023-03-09"
-draft = true
+date = "2023-03-13"
+draft = false
 pinned = false
 tags = ["ChatGBT"]
 image = "xdr-zu-klinke.jpg"
