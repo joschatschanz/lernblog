@@ -3,11 +3,11 @@ title = "Von XLR zu Klinke: Wie ich mein altes Mikrofon mit Adaptern fit für di
 date = "2023-03-13"
 draft = false
 pinned = false
-tags = ["ChatGBT"]
+tags = ["ChatGpt"]
 image = "xdr-zu-klinke.jpg"
 description = "In unserem Keller habe ich ein Mikrofon gefunden. Mein Vater hat es früher genutzt, aber mit dem Equipment, das er verwendet hat, ist es nicht mehr kompatibel.\n\nUm es jetzt aber wieder verwenden zu können, brauche ich ein paar Adapter..."
 +++
-Titel stammt von ChatGBT :)\
+Titel stammt von ChatGpt :)\
 \
 In unserem Keller habe ich ein Mikrofon gefunden. Mein Vater hat es früher genutzt, aber mit dem Equipment, das er verwendet hat, ist es nicht mehr kompatibel.
 
