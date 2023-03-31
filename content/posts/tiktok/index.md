@@ -1,7 +1,7 @@
 +++
 title = "TikTok: Warum Hochformat das neue Querformat sein könnte"
 date = "2023-03-31"
-draft = true
+draft = false
 pinned = false
 image = "1.png"
 description = "In diesem Blog geht es um TikTok und darum, was diese Kurz-Video-Plattform so sehr von anderen unterscheidet."
