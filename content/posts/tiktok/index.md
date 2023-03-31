@@ -3,7 +3,7 @@ title = "TikTok"
 date = "2023-03-23"
 draft = true
 pinned = false
-description = "Seit dem Lockdown gibt es keine gehyptere Plattform als Tiktok. Was ich darüber weiss und was ich davon halte gibts in diesem Blog"
+description = "Diesem Blog geht es um TikTok und darum, was diese Kurz-Video-Plattform so sehr von anderen unterscheidet."
 +++
 Seit dem Lockdown gibt es keine gehyptere Plattform als Tiktok. Das Kurzvideo-System hat sich so durchgesetzt, dass die grossen Player mit YouTube Shorts und Instagram Reels nachzogen. Das Prinzip ist immer gleich: Ein Algorithmus schlägt dir Videos vor, du entscheidest dich also nicht aktiv dafür, ein bestimmtes Video zu schauen. Der Algorithmus macht das für dich und er macht das erstaunlich gut. Schon nach kurzer Zeit weiß der Algorithmus ungefähr, was dir gefällt und schlägt dir das auch gleich vor. Das führt dazu, dass man schnell lange auf TikTok bleiben kann.
 
