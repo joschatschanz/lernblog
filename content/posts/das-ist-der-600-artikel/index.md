@@ -1,10 +1,15 @@
 +++
-title = "das ist (vielleicht) der 600. Artikel 🎉"
+title = "das ist der 600. Artikel 🎉"
 date = "2023-04-12"
 draft = false
 pinned = false
 description = "das ist der 600. Artikel 🎉"
 +++
+![](img_1789.png)
+
+\
+https://www.lilo.page/
+
 Hurra, geschafft, der 600. Artikel ist vollbracht, Im Lernblog haben wir viel Wissen angehäuft, Tag für Tag, Nacht für Nacht. Von Mathe bis Geschichte, von Sprachen bis Kunst, Wir haben viel gelernt und unsere Fähigkeiten vergrößert mit Lust.
 
 Von der ersten Zeile bis zur letzten Phrase, Haben wir getippt, recherchiert, mit Begeisterung und Hingabe, ganz in unserer Art und Weise. Von einfachen Themen bis zu komplexen Sachverhalten, Haben wir uns durchgebissen, mit Eifer und vollen Taten.
