@@ -1,8 +1,10 @@
 +++
 title = "Fast 30 Tage Amerika"
-date = "2023-07-04"
+date = "2023-07-06"
 draft = true
 pinned = false
+tags = []
+description = "Das habe ich in Amerika erlebt..."
 +++
 (23.6) Ich sitze jetzt gerade im Flughafen Schiphol Amsterdam in irgendeinem Gate mit guter Aussicht und ein paar Tischen. Manchmal habe ich das Gefühl, dass ich mich fast besser auf etwas konzentrieren kann, wenn um mich etwas läuft. Genau das ist hier der Fall, und das ist auch der Grund, warum ich meinen Blog hier schreibe.
 
