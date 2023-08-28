@@ -1,7 +1,7 @@
 +++
 title = "Moos Graffiti"
 date = "2021-12-16"
-draft = false
+draft = true
 pinned = false
 tags = ["videoblog"]
 image = "moos-graffiti-1-.jpg"
