@@ -1,7 +1,7 @@
 +++
 title = "Blog Pilzfarm"
 date = "2022-01-01"
-draft = false
+draft = true
 pinned = false
 image = "pilz.jpg"
 description = "Im Effinger, genau genommen im Colearning, entsteht eine Pilzfarm, an der auch ich mich beteilige."
