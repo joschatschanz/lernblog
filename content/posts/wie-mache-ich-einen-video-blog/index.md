@@ -1,7 +1,7 @@
 +++
 title = "Wie macht man einen Video-Blog?"
 date = "2022-01-14"
-draft = false
+draft = true
 pinned = false
 image = "blgo-2.jpg"
 description = "In diesem Blog schreibe ich darüber wie ich meinen Video-Blog gemacht habe."
