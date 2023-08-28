@@ -1,7 +1,7 @@
 +++
 title = "Wie plane ich ein Pilzfarm Video?"
 date = "2022-11-19"
-draft = false
+draft = true
 pinned = false
 image = "slkfdjlksajf.png"
 description = "In der Pilzfarm werden Pilzboxen verkauft. Wie ich ein Video dazu mache, schreibe ich hier."
