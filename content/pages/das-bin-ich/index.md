@@ -4,7 +4,7 @@ draft = false
 image = "_ssp9258-large.jpeg"
 description = "Das bin Ich."
 +++
-![](joscha-bild-2-.jpeg)
+![](_ssp9258-large.jpeg)
 
 Ich heisse Joscha und bin 14 Jahre alt. Und das bin ich:
 
