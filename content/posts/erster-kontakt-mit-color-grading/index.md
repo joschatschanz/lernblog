@@ -12,3 +12,7 @@ Professionelle Kameras filmen oft in einem flachen Bildprofil. Das bedeutet, das
 Hier ist ein Bild meiner Notizen nach einigen Tutorials.... (: 
 
 ![](_ssp9450-1-.jpg)
+
+![](ohne-farbe-hc.jpg "footage ohne grading")
+
+![](mit-farbe-hc.jpg "footage mit grading")
