@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["BBZblog"]
 +++
-Dieser Blog war ein Auftrag der Berufsschule.
+Dieser Blog ist ein Auftrag der Berufsschule.
 
 **Werbetext**\
 In der heutigen Zeit ist Autofahren nicht nur zweckmässig, sondern auch etwas, das Spass machen soll. Durch diesen einfachen Satz ("Purer Fahrspass beginnt hier") werden genau die Leute angesprochen. Ich denke der Slogan spricht eine grosse Gruppe von Menschen an und ist nicht aufdringlich. 
