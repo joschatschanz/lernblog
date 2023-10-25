@@ -10,8 +10,8 @@ image = "mael-after.jpg"
 <link href="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.css" rel="stylesheet" type="text/css" />
 
 <div id="image-compare">
-<img src="before.jpg" alt="" />
-<img src="after.jpg" alt="" />
+<img src="mael-before.jpg" alt="" />
+<img src="mael-after.jpg" alt="" />
 </div>
 
 <script>
