@@ -27,15 +27,15 @@ image = "screenshot-2023-10-25-at-21.39.12.jpeg"
         }
         .blue-box {
             background: #98C1D9;
-            width: 3056px;
-            height: 6468px;
+            width: 200px; /* Ändern Sie die Breite und Höhe der Boxen nach Bedarf */
+            height: 400px;
         }
         .dark-box {
             background: #293241;
-            width: 2767px;
+            width: 200px; /* Ändern Sie die Breite der Boxen nach Bedarf */
         }
         .content-box {
-            width: 2409.84px;
+            width: 200px; /* Ändern Sie die Breite der Boxen nach Bedarf */
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -47,11 +47,11 @@ image = "screenshot-2023-10-25-at-21.39.12.jpeg"
             word-wrap: break-word;
         }
         .large-text {
-            font-size: 200px;
+            font-size: 24px; /* Ändern Sie die Schriftgröße nach Bedarf */
             font-weight: 700;
         }
         .medium-text {
-            font-size: 130px;
+            font-size: 18px; /* Ändern Sie die Schriftgröße nach Bedarf */
             font-weight: 600;
         }
     </style>
@@ -72,13 +72,13 @@ image = "screenshot-2023-10-25-at-21.39.12.jpeg"
             <span class="text medium-text">Auto - danach anpassen<br> Denoise</span>
         </div>
         <div class="box dark-box" style="height: 951.66px;"></div>
-        <div class="content-box" style="height: 850.30px;">
+        <div class "content-box" style="height: 850.30px;">
             <span class="text large-text">Auge schärfen</span>
             <span class="text medium-text">new Layer<br>Sharpening tool<br>sample all Layers, protect detail</span>
         </div>
         <div class="box dark-box" style="height: 633.79px;"></div>
         <div class="box" style="height: 511.75px; text-align: center; background: #293241;">
-            <span class="text large-text" style="font-size: 430px; font-weight: 800;">Photoshop</span>
+            <span class="text large-text" style="font-size: 24px; font-weight: 800;">Photoshop</span>
         </div>
         <div class="box dark-box" style="height: 951.66px;"></div>
         <div class="content-box" style="height: 703.13px;">
@@ -86,24 +86,19 @@ image = "screenshot-2023-10-25-at-21.39.12.jpeg"
             <span class="text medium-text">Elliptical tool - Auge auswählen<br>Adjustment Layer - Levels<br>Blend mode Linear Dodge (Add)<br>Subtract from mask (nicht Auge)</span>
         </div>
     </div>
+
+    <script src="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.js"></script>
+
+    <link href="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.css" rel="stylesheet" type="text/css" />
+
+    <div id="image-compare">
+        <img src="mael-before.jpg" alt="" style="max-width: none; height: 100%;" />
+        <img src="mael-after.jpg" alt="" style="max-width: none; height: 100%;" />
+    </div>
+
+    <script>
+        const element = document.getElementById("image-compare");
+        const viewer = new ImageCompare(element).mount();
+    </script>
 </body>
 </html>
-
-
--------------------
-
-
-<script src="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.js" /></script>
-
-<link href="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.css" rel="stylesheet" type="text/css" />
-
-<div id="image-compare">
-<img src="mael-before.jpg" alt="" style="max-width: none; height: 100%;" />
-<img src="mael-after.jpg" alt="" style="max-width: none; height: 100%;" />
-</div>
-
-<script>
-const element = document.getElementById("image-compare");
-const viewer = new ImageCompare(element).mount();
-</script>
-ChatGPT
