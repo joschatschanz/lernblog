@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "screenshot-2023-10-25-at-21.39.12.jpeg"
 +++
-![](design-ohne-titel-large.jpeg)
+ <img src="design-ohne-titel-large.jpeg" alt="Bildbeschreibung" width="300" height="200">
 
 <script src="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.js" /></script>
 
@@ -20,5 +20,3 @@ image = "screenshot-2023-10-25-at-21.39.12.jpeg"
 const element = document.getElementById("image-compare");
 const viewer = new ImageCompare(element).mount();
 </script>
-
-ChatGPT
