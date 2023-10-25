@@ -16,9 +16,8 @@ image = "mael-after.jpg"
 
 <script>
   const element = document.getElementById("image-compare");
-  const viewer = new ImageCompare(element, {
-    startPosition: 1, // Set start position to fully right
-  }).mount();
+  const viewer = new ImageCompare(element).mount();
+  
+  // Hier versuchen wir, den Slider ganz rechts zu bewegen
+  viewer.setPosition(1); // Hierbei ist 1 die vollständig rechte Position
 </script>
-
-
