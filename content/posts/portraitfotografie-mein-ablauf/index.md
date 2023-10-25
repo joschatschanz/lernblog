@@ -3,7 +3,7 @@ title = "Portraitfotografie > mein Ablauf "
 date = "2023-10-25"
 draft = false
 pinned = false
-image = "mael-after.jpg"
+image = "screenshot-2023-10-25-at-21.39.12.jpeg"
 +++
 <script src="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.js"></script>
 
