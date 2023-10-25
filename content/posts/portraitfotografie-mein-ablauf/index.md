@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "screenshot-2023-10-25-at-21.39.12.jpeg"
 +++
- <img src="design-ohne-titel-large.jpeg" alt="Bildbeschreibung" width="300" height="200">
+ <img src="design-ohne-titel-large.jpeg" alt="Bildbeschreibung" width="600" height="400">
 
 <script src="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.js" /></script>
 
