@@ -5,9 +5,10 @@ draft = false
 pinned = false
 image = "screenshot-2023-10-25-at-21.39.12.jpeg"
 +++
-![](design-ohne-titel.jpg)
+![](design-ohne-titel-large.jpeg)
 
 \
+
 <script src="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.js" /></script>
 
 <link href="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.css" rel="stylesheet" type="text/css" />
