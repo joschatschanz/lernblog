@@ -1,8 +1,9 @@
 +++
 title = "Portraitfotografie > mein Ablauf "
 date = "2023-10-25"
-draft = true
+draft = false
 pinned = false
+image = "mael-after.jpg"
 +++
 <script src="https://unpkg.com/image-compare-viewer/dist/image-compare-viewer.min.js" /></script>
 
