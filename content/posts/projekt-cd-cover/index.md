@@ -20,5 +20,4 @@ Manu hat mir in der Pause erzählt, wie er das Thema Geld in einer Kundenbeziehu
 
 * Frühzeitig ansprechen.
 * 3 Pakete mit unterschiedlichen Preisen und Dienstleistungen verkaufen und davon ausgehen, dass der Kunde/die Kundin den Mittleren wählen wird.
-
-  ![](screenshot-2023-11-01-at-14.15.14-large.jpeg)
+* Mail's immer gut durchlesen.
