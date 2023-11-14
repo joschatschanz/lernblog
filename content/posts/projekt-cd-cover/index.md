@@ -18,6 +18,7 @@ Manu hat mir in der Pause erzählt, wie er das Thema Geld in einer Kundenbeziehu
 
 **Meine Learnings:**
 
-* Frühzeitig ansprechen.
+* Bezahlung frühzeitig ansprechen.
 * 3 Pakete mit unterschiedlichen Preisen und Dienstleistungen verkaufen und davon ausgehen, dass der Kunde/die Kundin den Mittleren wählen wird.
 * Mail's immer gut durchlesen.
+* Auch die Originaldateien in einem InDesign-Projekt müssen in den richtigen Farbraum konvertiert werden.
