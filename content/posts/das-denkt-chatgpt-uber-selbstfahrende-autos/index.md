@@ -1,9 +1,10 @@
 +++
 title = "das denkt ChatGPT über Selbstfahrende Autos"
 date = "2023-12-13"
-draft = true
+draft = false
 pinned = false
 image = "dall-e-2023-12-13-10.49.57-a-satirical-and-slightly-ironic-depiction-of-a-futuristic-city-with-self-driving-cars-embodying-the-theme-of-ai-in-transportation.-the-image-should-h.jpg"
+description = "Ich habe vor ein paar Tagen einen Philosophie-Podcast gehört,..."
 +++
 Ich habe vor ein paar Tagen einen Philosophie-Podcast gehört, in dem es um das Trolley-Problem ging. Zu diesem Problem gibt es zwei Antworten aus zwei verschiedenen Lagern. Ich habe mich gefragt, was diese beiden Gruppen über selbstfahrende Autos denken. Ab hier übernimmt ChatGPT, ich übernehme also keine Verantwortung. (;
 
