@@ -6,7 +6,7 @@ pinned = false
 image = "dall-e-2023-12-13-10.49.57-a-satirical-and-slightly-ironic-depiction-of-a-futuristic-city-with-self-driving-cars-embodying-the-theme-of-ai-in-transportation.-the-image-should-h.jpg"
 description = "Ich habe vor ein paar Tagen einen Philosophie-Podcast gehört,..."
 +++
-Ich habe vor ein paar Tagen einen Philosophie-Podcast gehört, in dem es um das Trolley-Problem ging. Zu diesem Problem gibt es zwei Antworten aus zwei verschiedenen Lagern. Ich habe mich gefragt, was diese beiden Gruppen über selbstfahrende Autos denken. Ab hier übernimmt ChatGPT, ich übernehme also keine Verantwortung. (;
+Ich habe vor ein paar Tagen einen Philosophie-Podcast gehört, in dem es um das [Trolley-Problem](https://de.wikipedia.org/wiki/Trolley-Problem) ging. Zu diesem Problem gibt es zwei Antworten aus zwei verschiedenen Lagern. Ich habe mich gefragt, was diese beiden Gruppen über selbstfahrende Autos denken. Ab hier übernimmt ChatGPT, ich übernehme also keine Verantwortung. (;
 
 **Ethische Fragestellung:**
 Stell dir vor, durch den Einsatz von künstlicher Intelligenz (KI) in selbstfahrenden Autos könnten wir die Zahl der Verkehrsunfälle drastisch senken. Klingt super, oder? Aber hier kommt die knifflige Frage: Ist es ethisch vertretbar, dass wir Menschen diese Kontrolle an Maschinen abgeben, selbst wenn dadurch weniger Menschen sterben? Das ist eine heiße Debatte in der Ethik, und es gibt zwei Hauptlager, die sich dazu Gedanken machen: die Deontologen und die Utilitaristen.
