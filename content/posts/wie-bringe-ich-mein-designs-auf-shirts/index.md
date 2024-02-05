@@ -1,7 +1,7 @@
 +++
 title = "Wie bringe ich meine Designs auf Shirts"
 date = "2021-10-25"
-draft = false
+draft = true
 pinned = false
 image = "bildschirmfoto-2021-10-25-um-14.39.00-1-.png"
 description = "Wie bekommt man seinen eigenen Print auf ein T-Shirt? Ich beantworte meine eigene Frage so:"
