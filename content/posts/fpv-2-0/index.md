@@ -36,8 +36,8 @@ Der echte Controller ist noch nicht mit der Post angekommen, aber mit einem ausg
 
 ![](1.jpeg)
 
-Die Steuerung ist komplett anders als bei einer DJI Mavic, die ich auch schon geflogen bin. Die Umgewöhnung ist etwas schwierig. Trotzdem macht es wirklich Spass.\
-\
+Die Steuerung ist komplett anders als bei einer DJI Mavic, die ich auch schon geflogen bin. Die Umgewöhnung ist etwas schwierig. Trotzdem macht es wirklich Spass.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COwoQGFdEOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Nächste Schritte**\
