@@ -1,7 +1,7 @@
 +++
 title = "Blog Tarp"
 date = "2021-06-23"
-draft = false
+draft = true
 pinned = false
 image = "tarp.jpeg"
 description = "Ich habe mir ein Tarp gekauft was das ist und wie ich es verwende erkläre ich in diesem Blog."
