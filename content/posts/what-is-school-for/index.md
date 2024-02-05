@@ -1,7 +1,7 @@
 +++
 title = "What is school for?"
 date = "2022-11-20"
-draft = false
+draft = true
 pinned = false
 image = "andrew-ebrahim-zrwxf6pizeo-unsplash.jpg"
 description = "Ich bin auf Youtube auf ein Video gestossen. Ich schreibe meine Gedanken dazu auf."
