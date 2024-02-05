@@ -1,7 +1,7 @@
 +++
 title = "Blog Heiwäg"
 date = "2021-06-23"
-draft = false
+draft = true
 pinned = false
 image = "vitolda-klein-wos-auwllhm-unsplash.jpg"
 description = "Ich schreibe darüber wie ich in einer Woche von Sarnen nach Stettlen gewandert bin."
