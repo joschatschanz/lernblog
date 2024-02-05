@@ -1,7 +1,7 @@
 +++
 title = "Werbe-Video in 1h"
 date = "2022-05-09"
-draft = false
+draft = true
 pinned = false
 image = "werbe-video.png"
 description = "Schafe ich es in 1h ein Werbe-Video zu filmen?"
