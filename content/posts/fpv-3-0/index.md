@@ -40,7 +40,7 @@ ChatGPT: Das Fliegen einer FPV-Drohne ist vergleichbar mit dem Fahren eines Auto
 * Weitere Übungen
 * Kontinuierliche Verbesserung
 
-  ![]()
+  ![](img_7853-1-.webp)
 
 ### **Die ersten Flüge:**
 
