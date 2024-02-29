@@ -1,55 +1,46 @@
 +++
 title = "Portfolio 1"
-draft = true
-image = "robert-wiedemann-d9yog5zp-oq-unsplash.jpg"
+draft = false
+image = ""
 description = "Das ist mein Portfolio"
 +++
-## Filme
+<!DOCTYPE html>
 
-#### \
-[Pilzfarm Instagram ](https://www.instagram.com/pilzfarm_bern/)\
-\
-Offenes Webergut in Zollikofen\
-\
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ug9zGIK6bHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
-\
-\
-**Schnupper Video Crunch**
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine YouTube Sammlung</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LCbvTdlnss0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <!-- Hier kommen die YouTube-Einbettungen hin -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-#### Härdöpfälä uf em Belpberg
+</body>
+</html>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rzYk3tqgPZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Drohnenaufnahmen über Stettlen
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5hIINfb6kXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin: 0;
+}
 
-#### Grotte de Malatiere
+.video-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pfnFVzjzNXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Foodwaste
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SYD1dzPGb7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Bilder
-
-#### für Velomech Instagram
-
-[Bild1](https://www.instagram.com/p/CRwIm6hlaqI/?utm_source=ig_web_copy_link)\
-[Bild2](https://www.instagram.com/p/COLJ3YKHX3h/?utm_source=ig_web_copy_link)\
-[Bild3](https://www.instagram.com/p/CNsWEBRBCTC/?utm_source=ig_web_copy_link)
-
-#### Berner Gebäude
-
-[Blog zu den Berner Gebäuden](https://www.joschatschanz.ch/mein-kurzprojekt-berner-gebaude/)
-
-## [](https://www.joschatschanz.ch/mein-kurzprojekt-berner-gebaude/)Zeichnung
-
-Bild:
-
-![](img_3412.jpg)
-
-![](skm_c454e21091708290-1-3-.jpg)
+iframe {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
