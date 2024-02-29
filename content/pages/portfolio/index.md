@@ -1,5 +1,5 @@
 +++
-title = "Portfolio 1"
+title = "Portfolio"
 draft = false
 image = ""
 description = "Das ist mein Portfolio"
@@ -11,36 +11,48 @@ description = "Das ist mein Portfolio"
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meine YouTube Sammlung</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            margin: 0;
+        }
+
 </head>
 <body>
 
 <div class="video-container">
-    <!-- Hier kommen die YouTube-Einbettungen hin -->
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <!-- Video 1 -->
+    <div class="video">
+        <p class="video-title">Titel des ersten Videos</p>
+        <p class="video-desc">Kurze Beschreibung des ersten Videos.</p>
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <!-- Weitere Videos hier... -->
+    <!-- Video 2 -->
+    <div class="video">
+        <p class="video-title">Titel des zweiten Videos</p>
+        <p class="video-desc">Kurze Beschreibung des zweiten Videos.</p>
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+<div class="video">
+        <p class="video-title">Titel des zweiten Videos</p>
+        <p class="video-desc">Kurze Beschreibung des zweiten Videos.</p>
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+<div class="video">
+        <p class="video-title">Titel des zweiten Videos</p>
+        <p class="video-desc">Kurze Beschreibung des zweiten Videos.</p>
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+<div class="video">
+        <p class="video-title">Titel des zweiten Videos</p>
+        <p class="video-desc">Kurze Beschreibung des zweiten Videos.</p>
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <!-- Bis zu Video 6 wiederholen... -->
 </div>
 
 </body>
 </html>
-
-
-
-body {
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
-    padding: 20px;
-    margin: 0;
-}
-
-.video-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-}
-
-iframe {
-    border: none;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
