@@ -5,6 +5,10 @@ draft = false
 pinned = false
 image = "dall-e-2024-02-29-15.39.57-visualize-a-compelling-title-image-for-a-blog-post-or-video-about-a-young-filmmaker-s-journey-exploring-different-video-editing-software.-the-image-fe.webp"
 +++
+
+
+![](dall-e-2024-02-29-15.39.57-visualize-a-compelling-title-image-for-a-blog-post-or-video-about-a-young-filmmaker-s-journey-exploring-different-video-editing-software.-the-image-fe.webp)
+
 Meine ersten kleinen Filmprojekte entstanden auf meinem iPod touch, den ich zu Weihnachten bekommen habe. Das Arbeiten in Programmen wie iMovie und Stop Motion war zwar etwas limitiert, aber es sind trotzdem einige lustige Projekte entstanden. Für etwas grössere Projekte konnte ich den Mac meiner Eltern mitbenutzen. iMovie auf dem Mac zu nutzen, war schon ein gutes Upgrade. Ich konnte mit einer Timeline arbeiten und hatte Zugriff auf nützliche Tools. Aber mit Final Cut Pro, das ich jetzt schon über 5 Jahre benutze, bin ich richtig in die Profiliga der Programme aufgestiegen. Final Cut ist die professionelle Version von iMovie. Ich mag das Programm sehr und da ich in den letzten Jahren meine Erfahrungen sammeln konnte, fühle ich mich damit auch sehr wohl.
 
 Die Meinungen zu diesem Programm sind gespalten, doch ich mag den logischen und einfachen Aufbau. Anderen fehlen dafür einige Tools, die komplexere Programme bieten. In meinem ersten halben Jahr in der Lehre durfte ich mich ins Thema Filmemachen vertiefen. Ich konnte viel von Joni und Fäbu lernen, vieles Neues über Final Cut, aber ich konnte auch ein komplett neues Programm kennenlernen.
@@ -24,5 +28,3 @@ Wovon ich jedoch auch schon jetzt profitieren kann, ist die riesige Community au
 Fazit: Ich habe sehr Lust, meine Fähigkeiten im Umgang mit diesem Programm zu erweitern. Ich versuche, neue Projekte jetzt auch damit umzusetzen. Einige Aufgaben sind mit Final Cut doch effizienter möglich.
 
 Funfact: Weil Blackmagic vor allem ein Hardwareproduzent ist, ist ihre DaVinci Resolve Software grösstenteils kostenlos.
-
-![](dall-e-2024-02-29-15.39.57-visualize-a-compelling-title-image-for-a-blog-post-or-video-about-a-young-filmmaker-s-journey-exploring-different-video-editing-software.-the-image-fe.webp)
