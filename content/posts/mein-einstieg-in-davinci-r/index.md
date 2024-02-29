@@ -1,5 +1,5 @@
 +++
-title = "Mein einstieg in DaVinci r"
+title = "Mein Einstieg in DaVinci "
 date = "2024-02-29"
 draft = false
 pinned = false
