@@ -1,5 +1,5 @@
 +++
-title = "Sidequest: Berufsschule"
+title = "SideQuest: Berufsschule"
 date = "2024-03-06"
 draft = false
 pinned = false
