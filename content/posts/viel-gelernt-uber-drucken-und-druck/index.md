@@ -12,7 +12,7 @@ Das Schweizer Berufsbildungssystem besteht aus drei Teilen: der Berufsschule, wo
 
 Der Auftrag des ÜKs war es, ein Logo, ein Plakat, ein Inserat und eine 15-seitige Broschüre zu designen. Der fiktive Auftraggeber war Engadin Ultra Trail’s. Gearbeitet wurde mit Photoshop, Illustrator und InDesign.
 
-**Ich möchte keinen Druck**
+**Druck**
 
 Das Thema Druck ist vielschichtig: Einerseits gibt es den Druck, der mich blockiert, zum Beispiel in Prüfungen. Andererseits entsteht ein ganz natürlicher Druck, wenn wir beispielsweise ein Projekt spontan fertig stellen müssen oder wir ein Interview filmen und das Mikrofon nicht so funktioniert wie es sollte.
 
