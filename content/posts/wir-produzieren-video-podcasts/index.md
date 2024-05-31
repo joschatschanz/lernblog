@@ -6,7 +6,7 @@ pinned = false
 image = "img_0189-1-.jpg"
 description = "Ich schreibe darüber das wir Podcasts im Effinger Produzieren"
 +++
-Vor einigen Wochen meldete sich eine Kundin bei YOLU, die gerne Video-Podcasts produzieren möchte. Wir entwickelten einige Ideen: ein Setup in der Hohlkehle, ein Podcast-Studio im 3. OG und so weiter. Allerdings war vieles davon für einen einzelnen Auftrag einfach zu teuer. Also entschieden wir uns, ein permanentes Studio im Effinger Studio zu bauen und Podcasts als offizielles Angebot anzssubieten.
+Vor einigen Wochen meldete sich eine Kundin bei YOLU, die gerne Video-Podcasts produzieren möchte. Wir entwickelten einige Ideen: ein Setup in der Hohlkehle, ein Podcast-Studio im 3. OG und so weiter. Allerdings war vieles davon für einen einzelnen Auftrag einfach zu teuer. Also entschieden wir uns, ein permanentes Studio im Effinger Studio zu bauen und Podcasts als offizielles Angebot anzubieten.
 
 Nun hatten wir zwei Wochen Zeit, um einen professionellen Podcast mit Video und Audio aufzunehmen, aber wir hatten noch kein Mikrofon, keinen Ständer, kein Licht, keine Kamera – eigentlich fast nichts. Also setzten wir uns zusammen und überlegten, welches Equipment wir benötigen:
 
