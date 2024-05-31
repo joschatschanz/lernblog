@@ -10,9 +10,9 @@ Vor einigen Wochen meldete sich eine Kundin bei YOLU, die gerne Video-Podcasts p
 
 Nun hatten wir zwei Wochen Zeit, um einen professionellen Podcast mit Video und Audio aufzunehmen, aber wir hatten noch kein Mikrofon, keinen Ständer, kein Licht, keine Kamera – eigentlich fast nichts. Also setzten wir uns zusammen und überlegten, welches Equipment wir benötigen:
 
-\- 2x a6300 Kameras\
-- 2x Objektive\
-- 2x Shure MV7 Mikrofone\
+- 2x a6300 Kameras
+- 2x Objektive
+- 2x Shure MV7 Mikrofone
 - 2x Ständer für die Mikrofone
 
 Die Mikrofone und Ständer waren schnell bei Digitec bestellt und geliefert. Die Beschaffung der Kameras war jedoch ein Auf und Ab zwischen gute Angebote finden, spontan beendeten Tutti-Inseraten, unbeantworteten Anfragen und erfolgreichen Preisverhandlungen. Schließlich kamen die Kameras rechtzeitig an.
