@@ -1,5 +1,5 @@
 +++
-title = "Was ich durchs ChatGPT'len gelernt habe"
+title = "Was ich über ChatGPT gelernt habe"
 date = "2024-09-17"
 draft = false
 pinned = false
