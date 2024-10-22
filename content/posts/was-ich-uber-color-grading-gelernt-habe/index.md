@@ -6,7 +6,7 @@ pinned = false
 image = "img_1794.webp"
 description = "Was ich über Color Grading gelernt habe. "
 +++
-MediamatikerIn ist ein unglaublich vielfältiger Beruf. Eigentlich findet fast alles, was man kreativ am Computer machen kann, dort seinen Platz. Jedes dieser Gebiete ist wiederum sehr facettenreich und erlaubt es, tief oder weniger tief einzutauchen. Im Effinger haben wir die Möglichkeit, bei bestimmten Themen richtig in die Tiefe zu gehen. Da ich mich besonders für das Videomachen interessiere, habe ich hier Glück, denn im Effinger haben wir Profis auf diesem Gebiet.
+Mediamatiker ist ein unglaublich vielfältiger Beruf. Eigentlich findet fast alles, was man kreativ am Computer machen kann, dort seinen Platz. Jedes dieser Gebiete ist wiederum sehr facettenreich und erlaubt es, tief oder weniger tief einzutauchen. Im Effinger haben wir die Möglichkeit, bei bestimmten Themen richtig in die Tiefe zu gehen. Da ich mich besonders für das Videomachen interessiere, habe ich hier Glück, denn im Effinger haben wir Profis auf diesem Gebiet.
 
 Gerade haben wir wieder eine Situation, in der wir davon profitieren können. Bei einem unserer Podcasts ist nämlich ein Fehler beim Colorgrading passiert – die Hauttöne sind etwas zu rot geworden. Also habe ich Fäbu gefragt, ob er mal Zeit für ein Coaching hat. Hatte er. So konnten wir das ganze Problem mit ihm besprechen, und es wurde schnell komplizierter, als ich gedacht hatte.
 
