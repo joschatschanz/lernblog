@@ -4,29 +4,27 @@ date = "2024-10-22"
 draft = true
 pinned = false
 +++
-Hier ist der korrigierte Text:
-
-Der erste Blog zum Thema FPV-Drohnen liegt jetzt etwas mehr als drei Jahre zurück. Wie ich damals auf das Thema kam, weiss ich nicht mehr genau. Wahrscheinlich irgendein beeindruckender Clip, der mich neugierig gemacht hat. Auf jeden Fall hatte ich schon damals den Traum, mal eine FPV-Drohne zu fliegen. Als ich dann meine Lehre gestartet habe, konnte ich mit einem Freund tatsächlich meine erste richtige FPV-Drohne kaufen. Bis jetzt hat mich die Faszination nicht losgelassen. Seitdem haben wir einiges erlebt, ausprobiert, zerstört, dann wieder repariert und dabei natürlich ganz viel gelernt.
+Der erste Blog zum Thema FPV-Drohnen liegt jetzt etwas mehr als drei Jahre zurück. Wie ich damals auf das Thema FPV - Drohnen kam, weiss ich nicht mehr genau. Wahrscheinlich irgendein beeindruckender Clip, der mich neugierig gemacht hat. Auf jeden Fall hatte ich schon damals den Traum, mal eine FPV-Drohne zu fliegen. Als ich dann meine Lehre gestartet habe, konnte ich mit einem Freund tatsächlich meine erste richtige FPV-Drohne kaufen. Bis jetzt hat mich die Faszination nicht losgelassen. Seitdem haben wir mit und an unserem quad einiges erlebt, ausprobiert, zerstört, dann wieder repariert und dabei natürlich ganz viel gelernt.
 
 Was wir in den letzten acht Monaten mit unserer Drohne erlebt haben. ⤵️
 
-Natürlich sind wir viel geflogen und dabei auch besser geworden. Wir haben uns mehr getraut, haben Autos verfolgt, sind durch enge Gaps geflogen und den Bantiger heruntergedived. Das führte aber auch dazu, dass wir einige Crashes hinter uns hatten – von kleinen Crashes in einem Wald, bei denen nur ein Propeller kaputtging, bis zu Full-Speed in eine Metallstange, bei der ein wichtiges Metallteil der Drohne so stark verbogen wurde, dass wir es ersetzen mussten.
+Natürlich sind wir viel geflogen und dabei auch besser geworden. Wir haben uns mehr getraut, haben Autos verfolgt, sind durch enge Gaps geflogen und den Bantiger heruntergedived. Das führte aber auch dazu, dass wir einige Crashes hinter uns hatten – von kleinen Crashes in einem Wald, bei denen nur ein Propeller kaputtging, bis zu Full-Speed in eine Metallstange, bei der ein wichtiges Metallteil des Kamera moduls so stark verbogen wurde, dass wir es ersetzen mussten.
 
-Dass wir die Drohnen aber immer noch haben, ist einfach Glück. Einmal haben wir plötzlich das Signal verloren und sind so unglücklich abgestürzt, dass wir ein riesiges Gebiet durchsuchen mussten – haben sie aber dann durch Zufall wiedergefunden. Eigentlich haben wir einen Pieper, den wir mit dem Controller einschalten können und der uns mit einem lauten Signal hilft, die Drohne zu finden. Wenn jetzt aber der LiPo beim Crash herausfällt, geht der Pieper nicht.
+Dass wir die Drohnen aber immer noch haben, ist ein echtes Wunder. Denn einmal haben wir plötzlich das Signal verloren und sind so unglücklich abgestürzt, dass wir ein riesiges Gebiet durchsuchen und sie mit einigen kaputten Teilen wiederfinden mussten. Für solche Fälle hätten wir eigentlich einen Pieper, den wir mit dem Controller einschalten können und der uns mit einem lauten Signal hilft, die Drohne zu finden. Wenn jetzt aber der LiPo beim Crash herausfällt wie das da passiert ist, geht der Pieper nicht.
 
 Dasselbe Problem hatten wir auch, als ich plötzlich das Signal verloren habe und in ein grosses Feld mit hohem Gras gestürzt bin. Darin hätten wir sie ohne Pieper nicht gefunden, aber glücklicherweise ist sie noch etwas weiter geflogen als gedacht und auf einem Feld gelandet, auf dem man sie gut sehen konnte.
 
----
+- - -
 
 Hier eine Liste mit Teilen, die wir schon ersetzen mussten:
 
-- 16x Propeller (durchgedreht, zerfetzt, zerlöchert. Passiert halt mal)
-- 1x Kameragehäuse (nach einem Crash mit voller Geschwindigkeit in einen Pfosten zerbeult)
-- 2x Motoren (keine Ahnung, was da passiert ist)
-- 1x Drohnenarm (zerbrochen)
-- 2x GoPro-Mount (beim Flug verloren und zerbrochen)
-- 2x Kabel (hat sich plötzlich gelöst)
-- 4x LiPo (nach Crash zerfetzt, plötzlich aufgebläht oder in Flammen aufgegangen)
+* 16x Propeller (durchgedreht, zerfetzt oder verloren)
+* 1x Kameragehäuse (nach einem Crash stark verbogen)
+* 2x Motoren (keine Ahnung, was uns da passiert ist)
+* 1x Drohnenarm (nach Crash zerbrochen)
+* 2x GoPro-Mount (beim Flug verloren und zerbrochen)
+* 2x Kabel (hat sich plötzlich gelöst)
+* 4x LiPo (nach Crash zerfetzt, plötzlich aufgebläht oder in Flammen aufgegangen)
 
 Jetzt hatten wir richtig Lust, mal unsere komplett eigene Drohne zu bauen. Dazu gehört einiges.
 
@@ -46,6 +44,6 @@ FPV Drohne selber bauen ✅
 
 Alle anderen FPV Blogs:
 
-- [FPV Blog 1](https://www.joschatschanz.ch/fpv/)
-- [FPV Blog 2.0](https://www.joschatschanz.ch/fpv-2-0/)
-- [FPV Blog 3.0](https://www.joschatschanz.ch/fpv-3-0/)
+* [FPV Blog 1](https://www.joschatschanz.ch/fpv/)
+* [FPV Blog 2.0](https://www.joschatschanz.ch/fpv-2-0/)
+* [FPV Blog 3.0](https://www.joschatschanz.ch/fpv-3-0/)
