@@ -1,7 +1,7 @@
 +++
 title = "Textarten (Mazda) "
 date = "2023-08-22"
-draft = false
+draft = true
 pinned = false
 tags = ["BBZblog"]
 +++
