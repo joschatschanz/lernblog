@@ -1,7 +1,7 @@
 +++
 title = "features, benefits und emotions"
 date = "2023-09-05"
-draft = false
+draft = true
 pinned = false
 description = "Dieser Blog ist ein Auftrag der Berufsschule."
 +++
