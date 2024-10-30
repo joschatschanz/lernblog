@@ -1,13 +1,13 @@
 +++
 title = "FPV 4.0"
-date = "2024-10-22"
-draft = true
+date = "2024-10-30"
+draft = false
 pinned = false
 tags = ["fpv"]
 image = "photo-2024-10-21-19-27-19-2.webp"
 description = "Seit dem letzten FPV-Blog ist einige Zeit vergangen, in der ich einiges erlebt und gelernt habe. Das schreibe ich hier auf. "
 +++
-Der erste Blog zum Thema FPV-Drohnen liegt jetzt etwas mehr als drei Jahre zurück. Wie ich damals auf das Thema FPV-Drohnen kam, weiss ich nicht mehr genau. Wahrscheinlich irgendein beeindruckender Clip, der mich neugierig gemacht hat. Auf jeden Fall hatte ich schon damals den Traum, mal eine FPV-Drohne zu fliegen. Als ich dann meine Lehre gestartet habe, konnte ich mit einem Freund tatsächlich meine erste richtige FPV-Drohne kaufen. Bis jetzt hat mich die Faszination nicht losgelassen. Seitdem haben wir mit und an unserem Quad einiges erlebt, ausprobiert, zerstört, dann wieder repariert und dabei natürlich ganz viel gelernt.
+Der erste Blog zum Thema FPV-Drohnen liegt jetzt etwas mehr als drei Jahre zurück. Wie ich damals auf das Thema FPV-Drohnen kam, weiss ich nicht mehr genau. Wahrscheinlich irgendein beeindruckender Clip, der mich neugierig gemacht hat. Auf jeden Fall hatte ich schon damals den Traum, mal eine FPV-Drohne zu fliegen. Als ich dann meine Lehre gestartet habe, konnte ich mit einem Freund tatsächlich meine erste richtige FPV-Drohne kaufen. Bis jetzt hat mich die Faszination nicht losgelassen. Seitdem haben wir mit und an unserer Drohne viel erlebt, ausprobiert, zerstört, wieder repariert und natürlich viel gelernt.
 
 **Repetition: Was sind FPV-Drohnen?**
 
