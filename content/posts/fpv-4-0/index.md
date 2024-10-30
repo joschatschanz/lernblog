@@ -15,7 +15,7 @@ Der erste Blog zum Thema FPV-Drohnen liegt jetzt etwas mehr als drei Jahre zurü
 
 **Was wir in den letzten acht Monaten mit unserer Drohne erlebt haben. ⤵️**
 
-Natürlich sind wir viel geflogen und dabei auch besser geworden. Wir haben uns mehr getraut, haben Autos verfolgt, sind durch enge Gaps geflogen und den Bantiger heruntergedived. Das führte aber auch dazu, dass wir einige Crashes hinter uns hatten – von kleinen Crashes in einem Wald, bei denen nur ein Propeller kaputtging, bis zu Full-Speed in eine Metallstange, bei der ein wichtiges Metallteil des Kameramoduls so stark verbogen wurde, dass wir es ersetzen mussten.
+Natürlich sind wir viel geflogen und dabei auch besser geworden. Wir haben uns mehr getraut, haben Autos verfolgt, sind durch enge Lücken geflogen und den Bantiger heruntergedived. Das führte aber auch dazu, dass wir einige Crashes hinter uns hatten – von kleinen Crashes in einem Wald, bei denen nur ein Propeller kaputtging, bis zu Full-Speed in eine Metallstange, bei der ein wichtiges Metallteil des Kameramoduls so stark verbogen wurde, dass wir es ersetzen mussten.
 
 Dass wir die Drohnen aber immer noch haben, ist ein echtes Wunder. Einmal haben wir plötzlich das Signal verloren und sind so unglücklich abgestürzt, dass wir ein riesiges Gebiet durchsuchen und sie mit einigen kaputten Teilen wiederfinden mussten. Für solche Fälle hätten wir eigentlich einen Pieper, den wir mit dem Controller einschalten können und der uns mit einem lauten Signal hilft, die Drohne zu finden. Wenn jetzt aber der LiPo beim Crash herausfällt, wie es da passiert ist, geht der Pieper nicht.
 
