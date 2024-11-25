@@ -4,7 +4,7 @@ date = "2024-11-25"
 draft = false
 pinned = false
 image = "yolu_hauptstadt_hub-16-1-.jpg"
-description = "Ich schreibe über mein (fast) erstes Zeitungsinterview."
+description = "Eigentlich hätte ich einiges zu erzählen, aber kaum Zeit zum Bloggen. Heute habe ich mir jedoch vorgenommen, einen Beitrag zu schreiben. Nämlich über ein Interview, bei dem ich dabei sein durfte."
 footnotes = "Bilder von Dres Hubacher"
 +++
 **Gerade läuft wieder so einiges bei mir.**\
