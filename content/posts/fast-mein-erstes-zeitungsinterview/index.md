@@ -15,11 +15,11 @@ Ich erlebe mal wieder eine Phase, in der echt viel los ist. Eigentlich hätte ic
 * Die Planung eines Videoprojekts, das diese Woche ansteht.
 * Und noch einiges mehr.
 
-Aber heute geht es um etwas anderes. Etwas, das ich so noch nie erlebt habe. Oder dachte ich zumindest, bis Marco mich darauf hingewiesen hat, dass das nicht stimmt. Egal. Auf jeden Fall wurde ich vor zwei Wochen von einer Journalistin interviewt. Passend zum Zukunftstag möchte sie einen Artikel über YOLU schreiben und: meinen schulischen Weg (oder eher den nicht so schulischen), meine Lernzeit bei YOLU und die Hürden mit der Berufsschule.
+Aber heute geht es um etwas anderes. Etwas, das ich so noch nie erlebt habe. Oder dachte ich zumindest, bis Marco mich darauf hingewiesen hat, dass das nicht stimmt. Egal. Auf jeden Fall wurde ich vor zwei Wochen von einer Journalistin interviewt. Passend zum Zukunftstag schrieb sie einen Artikel über YOLU und: meinen schulischen Weg (oder eher den nicht so schulischen), meine Lernzeit bei YOLU und die Hürden mit der Berufsschule.
 
 Das Interview war eine perfekte Gelegenheit, mal zurückzuschauen. Was habe ich alles erlebt? Mir wurde wieder einmal klar, wie viel Glück ich mit YOLU habe. Wie besonders das ist, was wir hier machen, und wie gut dieser Weg zu mir passt. Aber auch, welche Herausforderungen die Berufsschule manchmal mit sich bringt.
 
-**Mega spannend war aber auch,** Karin (die Journalistin) und Dres (der Fotograf) bei der Arbeit zu beobachten und Fragen zu stellen. Es war total inspirierend, zu sehen, wie Karin aus so vielen Infos einen runden und spannenden Artikel geschrieben hat. Und wie wenig Zeit Dres für so viele coole Fotos brauchte!
+**Mega spannend war aber auch,** Karin (die Journalistin) und Dres (der Fotograf) bei der Arbeit zu beobachten und Fragen zu stellen. Es war total inspirierend, zu sehen, wie Karin aus so vielen Infos einen runden und spannenden Artikel geschrieben hat. Und wie wenig Zeit Dres für so viele coole Fotos brauchte.
 
 ![](20241105_105933-2-1-.jpg)
 
