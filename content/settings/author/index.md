@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Joscha"
-image = "/media/img_5676.webp"
+image = "/media/joscha_profielbild-1.jpg"
 email = "mail@joschatschanz.ch"
 +++
