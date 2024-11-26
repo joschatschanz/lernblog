@@ -27,7 +27,7 @@ Mit dem Artikel bin ich mega zufrieden. Es ist spannend, einen Text über sich s
 
 So, ich habe es tatsächlich geschafft mal wieder einen Blog zu schreiben. Also muss der Schluss auch nicht perfekt sein. Ende.\
 \
-Hier der Artikel ➡️ [Wo die lehre eine lerne ist](www.hauptstadt.be/a/wo-die-lehre-eine-lerne-ist)
+Hier der Artikel ➡️ [Wo die lehre eine lerne ist](https://www.hauptstadt.be/a/wo-die-lehre-eine-lerne-ist)
 
 ![](yolu_hauptstadt_hub-28-1-.jpg)
 
