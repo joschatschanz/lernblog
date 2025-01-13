@@ -15,7 +15,7 @@ Auf Simonas Kanal kann man diesen Prozess sehr gut nachverfolgen: [Bindungsbasie
 
 Das Studio ist fertig, und es ist wirklich cool geworden! Leider hat das allein nicht dazu geführt, dass das 3. OG von zukünftigen Podcastproduzent:innen gestürmt wurde. Die Herausforderung war also, unser Angebot bekannt zu machen.
 
-Dafür haben wir:
+**Dafür haben wir:**
 
 * Bilder gemacht.
 * Ein einfaches Video produziert.
@@ -25,10 +25,10 @@ Dafür haben wir:
 Was wir uns dabei allerdings gar nicht gefragt haben, war: **Wer braucht eigentlich ein Podcaststudio?** \
 Um das herauszufinden, haben wir eine Marktanalyse gemacht. Schnell war klar: Unsere Zielgruppe sind Unternehmen, Teams, Vereine und Selbstständige, die Podcasts für Marketing- und Kommunikationszwecke nutzen wollen.
 
-Mit diesem Fokus haben wir losgelegt:\
+**Mit diesem Fokus haben wir losgelegt:**\
 Also haben wir neue Bilder gemacht, ein neues Video gedreht, die Website weggeworfen und eine komplett neue, für die neue Zielgruppe optimierte Website erstellt. Naja, fast.  – ehrlich gesagt ist mir dabei aufgefallen, dass das Erstellen von Websites, Bildern und Marketingprodukten oft auch einfach eine Form von Prokrastination sein kann. Es ist halt schon gemütlich, in der Loft zu sitzen und an einem Figma-Board ein Design zu basteln.
 
-Nach einigen Gesprächen mit YOLU haben wir eine effektivere Strategie entwickelt:
+Nach einigen Gesprächen mit YOLU haben wir eine effektivere Strategie entwickelt, die für mich etwas ungewohnt war. Ein Stichwort, das ich für diese Form von Marketing gefunden habe, ist: Direct Outreach Marketing**.**
 
 * Slack-Gruppen anschreiben.
 * Alte Kunden aktivieren und kontaktieren.
@@ -40,8 +40,6 @@ Eine spannende Herausforderung war dabei: Wie formulieren wir solche Mails? Wie 
 
 1. **Der Kunde kommt immer zuerst.** Wörtlich genommen. Das bedeutet: Die ersten Worte in einer Mail sollten, wenn möglich, direkt an den Kunden gerichtet sein.
 2. **Wir sind keine Mediamatiker.** Maël und ich haben uns entschieden, uns nicht als Mediamatiker vorzustellen, sondern als Jungunternehmer bei YOLU oder als Podcast- und Videoproduzenten.
-
-Ein Stichwort, das ich für diese Form von Marketing gefunden habe, ist: **Direct Outreach Marketing.**
 
 Kunden- und auslastungsmässig stehen wir noch am Anfang stehen wir noch am Anfang, und ich bin gespannt, wo uns die Podcast-Reise hinführt. 
 
