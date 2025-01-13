@@ -11,7 +11,7 @@ In den letzten Monaten hat sich bei unserem Podcaststudio im Effinger einiges ge
 
 Unsere Podcastreise begann mit einer Anfrage von Simona. Sie wollte ein Video-Podcastformat starten, und wir haben direkt mit der Produktion der ersten Folgen losgelegt. Zu der Zeit hatten wir einen Teil des Effinger-Studios provisorisch für die Aufnahmen umfunktioniert. Mit jeder Folge haben wir das Setup verbessert, und inzwischen ist daraus ein richtig professionelles und einladendes Video-Podcaststudio geworden.
 
-Auf Simonas Kanal kann man diesen Prozess sehr gut nachverfolgen: \[YouTube-Link einfügen].
+Auf Simonas Kanal kann man diesen Prozess sehr gut nachverfolgen: [Bindungsbasiert](https://www.youtube.com/@bindungsbasiert)
 
 Das Studio ist fertig, und es ist wirklich cool geworden! Leider hat das allein nicht dazu geführt, dass das 3. OG von zukünftigen Podcastproduzent:innen gestürmt wurde. Die Herausforderung war also, unser Angebot bekannt zu machen.
 
