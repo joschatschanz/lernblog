@@ -3,6 +3,7 @@ title = "Wir produzieren Video Podcasts "
 date = "2024-05-31"
 draft = false
 pinned = false
+tags = ["podcaststudio"]
 image = "img_0189-1-.jpg"
 description = "Ich schreibe darüber das wir Podcasts im Effinger Produzieren"
 +++
