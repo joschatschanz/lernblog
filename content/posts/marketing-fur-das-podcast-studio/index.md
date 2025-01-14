@@ -3,6 +3,7 @@ title = "Marketing für das Podcast-Studio"
 date = "2024-09-23"
 draft = false
 pinned = false
+tags = ["podcaststudio"]
 image = "img_1568.webp"
 description = "Was ich über Marketing gelernt habe...\n"
 +++
