@@ -28,7 +28,7 @@ Um das herauszufinden, haben wir eine Marktanalyse gemacht. Schnell war klar: Un
 **Mit diesem Fokus haben wir losgelegt:**\
 Also haben wir neue Bilder gemacht, ein neues Video gedreht, die Website weggeworfen und eine komplett neue, für die neue Zielgruppe optimierte Website erstellt. Naja, fast.  – ehrlich gesagt ist mir dabei aufgefallen, dass das Erstellen von Websites, Bildern und Marketingprodukten oft auch einfach eine Form von Prokrastination sein kann. Es ist halt schon gemütlich, in der Loft zu sitzen und an einem Figma-Board ein Design zu basteln.
 
-Nach einigen Gesprächen mit YOLU haben wir eine effektivere Strategie entwickelt, die für mich etwas ungewohnt war. Ein Stichwort, das ich für diese Form von Marketing gefunden habe, ist: Direct Outreach Marketing**.**
+Nach einigen Gesprächen mit YOLU haben wir eine effektivere Strategie entwickelt, die für mich etwas ungewohnt war. Ein Stichwort, das ich für diese Form von Marketing gefunden habe, ist: Direct Outreach Marketing.
 
 * Slack-Gruppen anschreiben.
 * Alte Kunden aktivieren und kontaktieren.
