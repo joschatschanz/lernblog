@@ -41,7 +41,7 @@ Eine spannende Herausforderung war dabei: Wie formulieren wir solche Mails? Wie 
 1. **Der Kunde kommt immer zuerst.** Wörtlich genommen. Das bedeutet: Die ersten Worte in einer Mail sollten, wenn möglich, direkt an den Kunden gerichtet sein.
 2. **Wir sind keine Mediamatiker.** Maël und ich haben uns entschieden, uns nicht als Mediamatiker vorzustellen, sondern als Jungunternehmer bei YOLU oder als Podcast- und Videoproduzenten.
 
-Kunden- und auslastungsmässig stehen wir noch am Anfang stehen wir noch am Anfang, und ich bin gespannt, wo uns die Podcast-Reise hinführt. 
+Kunden- und auslastungsmässig stehen wir noch am Anfang und ich bin gespannt, wo uns die Podcast-Reise hinführt. 
 
 Ach ja, falls du mal ein Podcaststudio brauchst, melde dich gerne! 😉
 
