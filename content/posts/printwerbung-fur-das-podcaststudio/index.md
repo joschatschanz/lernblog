@@ -4,7 +4,7 @@ date = "2025-01-15"
 draft = false
 pinned = false
 tags = ["Podcaststudio"]
-image = "blog-bild-1.png"
+image = "502shots_so.png"
 description = "Schon der zweite Blog in einer Woche und noch dazu zum gleichen Thema..."
 +++
 Wir stecken mitten im Marketing für unser Podcaststudio. Die letzte Woche haben wir damit verbracht, unzählige Mails zu schreiben, einige Absagen zu lesen, vereinzelte Gespräche mit potentiellen Kunden zu führen und Marketingstrategien auszuhecken.
