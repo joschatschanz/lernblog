@@ -9,7 +9,7 @@ description = "Schon der zweite Blog in einer Woche und noch dazu zum gleichen T
 +++
 Wir stecken mitten im Marketing für unser Podcaststudio. Die letzte Woche haben wir damit verbracht, unzählige Mails zu schreiben, einige Absagen zu lesen, vereinzelte Gespräche mit potentiellen Kunden zu führen und Marketingstrategien auszuhecken.
 
-Eine dieser Massnahmen habe ich heute umgesetzt. Wir wollen nämlich die Leute im Effinger gezielt auf unser Podcaststudio ansprechen. Dies wollen wir in erster Linie persönlich in Gesprächen tun oder bei Führungen während der Beherbergung einen kleinen Abstecher ins Studio machen. Ausserdem wollen wir Flyer verteilen. Genau damit habe ich mich heute beschäftigt.
+Eine dieser Massnahmen habe ich heute umgesetzt. Wir wollen nämlich die Leute im Effinger gezielt auf unser Podcaststudio ansprechen. Dies wollen wir in erster Linie persönlich in Gesprächen tun oder bei Host-Führungen durch den Effinger einen kleinen Abstecher ins Studio machen. Ausserdem wollen wir Flyer verteilen. Genau damit habe ich mich heute beschäftigt.
 
 **Was ist das Ziel des Flyers?**
 Kurz und kompakt erklären, was unser Podcast-Studio-Angebot ist. Die wichtigsten Keypoints aufzeigen und mit einem klaren Call to Action – wir wollen, dass sich Leute mit uns in Verbindung setzen, uns anschreiben.
